@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CORPUS / GRAFOS — Rosemberg Sandoval</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 100%; height: 100%; overflow: hidden; background: #fff; }
+  canvas { display: block; }
+  #loading {
+    position: fixed; inset: 0; background: #fff;
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    font-family: 'Courier New', monospace; font-size: 13px; color: #000;
+    z-index: 100;
+  }
+  #loading-log {
+    margin-top: 20px; max-width: 500px; width: 90%;
+    text-align: left; opacity: 0.5; font-size: 11px; line-height: 1.8;
+  }
+  #loading-title { font-size: 15px; letter-spacing: 2px; }
+</style>
+</head>
+<body>
+
+<div id="loading">
+  <div id="loading-title">CORPUS / GRAFOS</div>
+  <div style="margin-top:8px;opacity:0.4;font-size:11px">construyendo cadena de Markov...</div>
+  <div id="loading-log"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.3/p5.min.js"></script>
+<script>
+// ── CONFIG ────────────────────────────────────────────────────────────────────
+const SERVER         = "";   // vacío = mismo origen
+const MUTATE_MS      = 1600;
+const REGEN_MS       = 20000;
+const MARGEN         = 60;
+const COLS_NODOS     = 14;
+const CAJA_ANCHO     = 140;
+const PREMISA_DY     = 12;
+const TEXTO_MARGEN   = 8;
+const GRID           = 80;
+
+const TW_ESPERA      = 0;
+const TW_ESCRIBIENDO = 1;
+const TW_PAUSA       = 2;
+const TW_BORRANDO    = 3;
+
+// ── TYPEWRITER ────────────────────────────────────────────────────────────────
+class Typewriter {
+  constructor(t) {
+    this.target        = t || "";
+    this.pendiente     = "";
+    this.visible       = 0;
+    this.state         = TW_ESPERA;
+    this.frameAcc      = 0;
+    this.framesPerChar = 1;
+    this.pauseCounter  = 0;
+    this.waitCounter   = 15 + Math.floor(Math.random() * 30);
+    this.PAUSA_BASE    = 180;
+    this.ESPERA_BASE   = 15;
+  }
+  reset(t) {
+    this.target        = t;
+    this.pendiente     = "";
+    this.visible       = 0;
+    this.state         = TW_ESPERA;
+    this.frameAcc      = 0;
+    this.pauseCounter  = 0;
+    this.waitCounter   = this.ESPERA_BASE + Math.floor(Math.random() * 30);
+  }
+  setPendiente(t) {
+    this.pendiente = t;
+    if (this.state === TW_PAUSA) this.pauseCounter = Math.min(this.pauseCounter, 20);
+  }
+  tick() {
+    this.frameAcc++;
+    if (this.frameAcc < this.framesPerChar) return;
+    this.frameAcc = 0;
+    if (this.state === TW_ESPERA) {
+      this.waitCounter--;
+      if (this.waitCounter <= 0) this.state = TW_ESCRIBIENDO;
+    } else if (this.state === TW_ESCRIBIENDO) {
+      if (this.visible < this.target.length) {
+        this.visible++;
+      } else {
+        this.state = TW_PAUSA;
+        this.pauseCounter = this.PAUSA_BASE + Math.floor(Math.random() * 80 - 40);
+      }
+    } else if (this.state === TW_PAUSA) {
+      this.pauseCounter--;
+      if (this.pauseCounter <= 0) this.state = TW_BORRANDO;
+    } else if (this.state === TW_BORRANDO) {
+      if (this.visible > 0) {
+        this.visible = Math.max(0, this.visible - 2);
+      } else {
+        if (this.pendiente.length > 0) {
+          this.target    = this.pendiente;
+          this.pendiente = "";
+        }
+        this.state       = TW_ESPERA;
+        this.waitCounter = this.ESPERA_BASE + Math.floor(Math.random() * 30);
+      }
+    }
+  }
+  textoVisible() {
+    if (this.visible <= 0 || this.target.length === 0) return "";
+    return this.target.substring(0, Math.min(this.visible, this.target.length));
+  }
+  textAlpha() {
+    if (this.state === TW_ESCRIBIENDO || this.state === TW_PAUSA) return 190;
+    if (this.state === TW_BORRANDO) {
+      const tlen = Math.max(1, this.target.length);
+      return (this.visible / tlen) * 190;
+    }
+    return 0;
+  }
+}
+
+// ── SKETCH p5 ────────────────────────────────────────────────────────────────
+new p5(function(p) {
+  let nodos = [], edges = [], mapa = {};
+  let seleccionado = null, nodoDragging = null;
+  let offsetX = 0, offsetY = 0;
+  let lastMutate = 0, lastRegen = 0, typeSpeed = 1;
+  let nRelServ = 0, nRelDisp = 0;
+  let sepX, sepY;
+  let fontBook, fontBold, fontLight, fontMedium;
+  let ready = false;
+
+  // ── SETUP ──────────────────────────────────────────────────────────────────
+  p.setup = function() {
+    p.createCanvas(p.windowWidth, p.windowHeight);
+    p.smooth();
+    p.frameRate(60);
+    p.textFont('Courier New');
+    sepX = (p.width  - MARGEN * 2) / COLS_NODOS;
+    sepY = (p.height - MARGEN * 2) / 10;
+    lastMutate = p.millis();
+    lastRegen  = p.millis();
+    pollReady();
+  };
+
+  p.windowResized = function() {
+    p.resizeCanvas(p.windowWidth, p.windowHeight);
+    sepX = (p.width  - MARGEN * 2) / COLS_NODOS;
+    sepY = (p.height - MARGEN * 2) / 10;
+  };
+
+  // ── POLL: espera hasta que el servidor esté listo ──────────────────────────
+  function pollReady() {
+    fetch(SERVER + "/status")
+      .then(r => r.json())
+      .then(d => {
+        log("servidor: " + d.obras + " obras, " + d.relaciones + " relaciones");
+        if (d.ready) {
+          cargarDatos();
+        } else {
+          log("construyendo... reintentando en 3s");
+          setTimeout(pollReady, 3000);
+        }
+      })
+      .catch(() => {
+        log("esperando servidor...");
+        setTimeout(pollReady, 3000);
+      });
+  }
+
+  function cargarDatos() {
+    Promise.all([
+      fetch(SERVER + "/obras").then(r => r.json()),
+      fetch(SERVER + "/relaciones").then(r => r.json())
+    ]).then(([jObras, jRels]) => {
+      cargarObras(jObras);
+      cargarEdges(jRels);
+      nRelServ = edges.length;
+      nRelDisp = edges.length;
+      ready = true;
+      document.getElementById("loading").style.display = "none";
+    }).catch(err => {
+      log("error cargando datos: " + err);
+      setTimeout(cargarDatos, 3000);
+    });
+  }
+
+  function log(msg) {
+    const el = document.getElementById("loading-log");
+    if (el) {
+      el.innerHTML += msg + "<br>";
+      el.scrollTop = el.scrollHeight;
+    }
+  }
+
+  // ── DRAW ──────────────────────────────────────────────────────────────────
+  p.draw = function() {
+    p.background(255);
+    if (!ready) return;
+
+    dibujarReticula();
+    dibujarEdges();
+    dibujarNodos();
+    dibujarHUD();
+    tickTypewriters();
+
+    if (p.millis() - lastMutate > MUTATE_MS) {
+      mutarUnaPremisa();
+      lastMutate = p.millis();
+    }
+    if (p.millis() - lastRegen > REGEN_MS) {
+      pedirRegeneracion();
+      lastRegen = p.millis();
+    }
+    nRelDisp = p.lerp(nRelDisp, nRelServ, 0.06);
+  };
+
+  // ── RETICULA ──────────────────────────────────────────────────────────────
+  function dibujarReticula() {
+    p.stroke(220);
+    p.strokeWeight(0.5);
+    for (let x = 0; x < p.width; x += GRID)  p.line(x, 0, x, p.height);
+    for (let y = 0; y < p.height; y += GRID)  p.line(0, y, p.width, y);
+  }
+
+  // ── LINEA PUNTEADA ────────────────────────────────────────────────────────
+  function lineaPunteada(x1, y1, x2, y2, seg, gap) {
+    const len = p.dist(x1, y1, x2, y2);
+    if (len === 0) return;
+    const dx = (x2 - x1) / len, dy = (y2 - y1) / len;
+    let pos = 0;
+    while (pos < len) {
+      const fin = Math.min(pos + seg, len);
+      p.line(x1 + dx * pos, y1 + dy * pos, x1 + dx * fin, y1 + dy * fin);
+      pos += seg + gap;
+    }
+  }
+
+  // ── NODOS ─────────────────────────────────────────────────────────────────
+  function dibujarNodos() {
+    for (let n of nodos) {
+      const sel  = (n === seleccionado);
+      const conx = estaConectado(n);
+      p.noStroke();
+
+      let scoreMax = 0;
+      if (conx && seleccionado) {
+        for (let e of edges) {
+          if ((e.a === n.id || e.b === n.id) &&
+              (e.a === seleccionado.id || e.b === seleccionado.id)) {
+            if (e.score > scoreMax) scoreMax = e.score;
+          }
+        }
+      }
+
+      if (sel) {
+        p.fill(0); p.ellipse(n.x, n.y, 12, 12);
+      } else if (conx) {
+        const d = p.map(scoreMax, 0, 1, 5, 18);
+        p.fill(50); p.ellipse(n.x, n.y, d, d);
+      } else {
+        p.fill(0); p.ellipse(n.x, n.y, 5, 5);
+      }
+
+      // Índice
+      p.fill(0); p.noStroke();
+      p.textFont('Courier New'); p.textSize(9); p.textStyle(p.BOLD);
+      p.textAlign(p.RIGHT);
+      p.text(fmt(n.index), n.x, n.y - 15);
+
+      // Título
+      const anchoDisp = sepX - 12 - TEXTO_MARGEN;
+      if (anchoDisp > 20) {
+        p.fill(0);
+        p.textFont('Courier New'); p.textSize(11); p.textStyle(p.BOLD);
+        p.textAlign(p.LEFT);
+        p.text(truncarTexto(n.title, anchoDisp), n.x + 12, n.y);
+      }
+
+      // Año
+      p.fill(0); p.textSize(10); p.textStyle(p.NORMAL);
+      p.textAlign(p.LEFT);
+      p.text(n.year, n.x + 6, n.y + 14);
+
+      // Descripción si está seleccionado
+      if (sel && n.desc && n.desc.length > 0) {
+        p.fill(0); p.textFont('Courier New'); p.textSize(11); p.textStyle(p.NORMAL);
+        p.textAlign(p.LEFT);
+        let descAncho = 280;
+        let descX = n.x + 6;
+        if (descX + descAncho > p.width - TEXTO_MARGEN)
+          descX = Math.max(TEXTO_MARGEN, p.width - descAncho - TEXTO_MARGEN);
+        let descY = n.y + 28;
+        const nLin = contarLineas(n.desc, descAncho);
+        const altDesc = nLin * 14;
+        if (descY + altDesc > p.height - TEXTO_MARGEN)
+          descY = Math.max(MARGEN, p.height - altDesc - TEXTO_MARGEN * 2);
+        dibujarTexto(n.desc, descX, descY, descAncho, p.height - TEXTO_MARGEN, 190);
+      }
+    }
+  }
+
+  // ── EDGES ─────────────────────────────────────────────────────────────────
+  function dibujarEdges() {
+    if (!seleccionado) return;
+    for (let e of edges) {
+      if (e.a !== seleccionado.id && e.b !== seleccionado.id) continue;
+      const A = mapa[e.a], B = mapa[e.b];
+      if (!A || !B) continue;
+      const midX = A.x, midY = B.y;
+
+      p.stroke(0, e.lineAlpha);
+      p.strokeWeight(p.map(e.score, 0, 1, 0.3, 1.8));
+      p.noFill();
+      lineaPunteada(A.x, A.y, midX, midY, 1, 6);
+      lineaPunteada(midX, midY, B.x, B.y, 1, 6);
+
+      p.noStroke(); p.fill(0, e.lineAlpha);
+      p.ellipse(midX, midY, 3, 3);
+
+      let px = (midX + B.x) / 2 + 4;
+      let py = (midY + B.y) / 2 + PREMISA_DY;
+      if (px + CAJA_ANCHO > p.width - TEXTO_MARGEN)
+        px = p.width - CAJA_ANCHO - TEXTO_MARGEN;
+      if (px < TEXTO_MARGEN) px = TEXTO_MARGEN;
+
+      const vis    = e.tw.textoVisible();
+      const talpha = e.tw.textAlpha();
+      if (vis.length > 0) {
+        let dibujar = vis;
+        if (e.tw.state === TW_ESCRIBIENDO && (p.frameCount / 18 | 0) % 2 === 0)
+          dibujar += "|";
+        p.fill(0, talpha);
+        p.noStroke();
+        dibujarTexto(dibujar, px, py, CAJA_ANCHO, p.height - TEXTO_MARGEN, talpha);
+      }
+    }
+  }
+
+  // ── TYPEWRITERS ───────────────────────────────────────────────────────────
+  function tickTypewriters() {
+    if (!seleccionado) return;
+    for (let e of edges) {
+      if (e.a !== seleccionado.id && e.b !== seleccionado.id) continue;
+      e.tw.tick();
+      const targetAlpha = (e.tw.state === TW_ESPERA) ? 40 : 155;
+      e.lineAlpha = p.lerp(e.lineAlpha, targetAlpha, 0.07);
+    }
+  }
+
+  // ── HUD ───────────────────────────────────────────────────────────────────
+  function dibujarHUD() {
+    const pad = 30;
+    p.fill(0); p.noStroke();
+    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.BOLD);
+    p.textAlign(p.LEFT);
+    p.text(fmt(nodos.length) + " obras", pad, pad);
+    p.text(fmt(Math.round(nRelDisp)) + " relaciones", pad, pad + 15);
+
+    if (Math.abs(nRelDisp - nRelServ) > 3) {
+      p.textStyle(p.NORMAL); p.textSize(10);
+      p.text("analizando corpus...", pad, pad + 40);
+    }
+
+    p.textStyle(p.NORMAL); p.textSize(10);
+    p.textAlign(p.LEFT);
+    p.text("R regenerar   S captura   +/- velocidad   ESC deseleccionar", pad, p.height - pad);
+
+    if (seleccionado) {
+      p.textStyle(p.BOLD); p.textSize(11);
+      p.textAlign(p.RIGHT);
+      p.text(seleccionado.title, p.width - pad, pad);
+      p.textStyle(p.NORMAL); p.textSize(10);
+      p.text(seleccionado.year + "  [" + contarConexiones(seleccionado) + " conexiones]",
+             p.width - pad, pad + 14);
+    }
+  }
+
+  // ── INTERACCION ───────────────────────────────────────────────────────────
+  p.mousePressed = function() {
+    for (let n of nodos) {
+      if (p.dist(p.mouseX, p.mouseY, n.x, n.y) < 12) {
+        seleccionado = n;
+        nodoDragging = n;
+        offsetX = n.x - p.mouseX;
+        offsetY = n.y - p.mouseY;
+        for (let e of edges) {
+          if (e.a === n.id || e.b === n.id) {
+            e.tw.reset(e.premisa);
+            e.lineAlpha = 0;
+          }
+        }
+        return false;
+      }
+    }
+    seleccionado = null;
+    nodoDragging = null;
+  };
+
+  p.mouseDragged = function() {
+    if (nodoDragging) {
+      nodoDragging.x = p.mouseX + offsetX;
+      nodoDragging.y = p.mouseY + offsetY;
+    }
+    return false;
+  };
+
+  p.mouseReleased = function() {
+    nodoDragging = null;
+  };
+
+  p.keyPressed = function() {
+    if (p.key === 'r' || p.key === 'R') {
+      pedirRegeneracion();
+    } else if (p.key === 's' || p.key === 'S') {
+      p.saveCanvas("corpus_" + Date.now(), "png");
+    } else if (p.key === '+') {
+      typeSpeed = Math.max(1, typeSpeed - 1);
+      for (let e of edges) e.tw.framesPerChar = typeSpeed;
+    } else if (p.key === '-') {
+      typeSpeed = Math.min(8, typeSpeed + 1);
+      for (let e of edges) e.tw.framesPerChar = typeSpeed;
+    } else if (p.keyCode === p.ESCAPE) {
+      seleccionado = null;
+      return false;
+    }
+  };
+
+  // ── CARGA ─────────────────────────────────────────────────────────────────
+  function cargarObras(jObras) {
+    nodos = []; mapa = {};
+    jObras.forEach((obj, i) => {
+      const id    = obj.id;
+      const title = limpiar(obj.titulo || obj.obra || "");
+      const year  = limpiar(obj.year  || obj.año  || "");
+      const desc  = limpiar(obj.texto || "");
+      const col   = i % COLS_NODOS;
+      const row   = Math.floor(i / COLS_NODOS);
+      const x     = MARGEN + col * sepX + sepX / 2;
+      const y     = MARGEN + row * sepY + sepY / 2;
+      const n     = { id, x, y, title, year, desc, index: i };
+      nodos.push(n);
+      mapa[id] = n;
+    });
+  }
+
+  function cargarEdges(jRels) {
+    edges = [];
+    for (let r of jRels) {
+      if (!mapa[r.A] || !mapa[r.B]) continue;
+      const score   = r.score   || 0.5;
+      const premisa = limpiar(r.premisa || "");
+      edges.push({ a: r.A, b: r.B, premisa, score, lineAlpha: 0, tw: new Typewriter(premisa) });
+    }
+    nRelServ = edges.length;
+    if (seleccionado) {
+      for (let e of edges) {
+        if (e.a === seleccionado.id || e.b === seleccionado.id) {
+          e.tw.reset(e.premisa);
+          e.lineAlpha = 0;
+        }
+      }
+    }
+  }
+
+  // ── HTTP ──────────────────────────────────────────────────────────────────
+  function mutarUnaPremisa() {
+    if (!edges.length) return;
+    fetch(SERVER + "/premisa")
+      .then(r => r.json())
+      .then(d => {
+        const np  = limpiar(d.premisa || "");
+        const idx = Math.floor(Math.random() * edges.length);
+        const e   = edges[idx];
+        e.premisa = np;
+        if (e.tw.state === TW_PAUSA || e.tw.state === TW_ESPERA)
+          e.tw.setPendiente(np);
+        else
+          e.tw.reset(np);
+      }).catch(() => {});
+  }
+
+  function pedirRegeneracion() {
+    fetch(SERVER + "/regenerar")
+      .then(() => fetch(SERVER + "/relaciones"))
+      .then(r => r.json())
+      .then(cargarEdges)
+      .catch(() => {});
+  }
+
+  // ── UTILIDADES ────────────────────────────────────────────────────────────
+  function estaConectado(n) {
+    if (!seleccionado) return false;
+    for (let e of edges) {
+      if ((e.a === seleccionado.id || e.b === seleccionado.id) &&
+          (e.a === n.id             || e.b === n.id)) return true;
+    }
+    return false;
+  }
+
+  function contarConexiones(n) {
+    return edges.filter(e => e.a === n.id || e.b === n.id).length;
+  }
+
+  function limpiar(s) {
+    if (!s) return "";
+    return String(s).replace(/[\n\r]/g, " ").trim().replace(/^null$/, "");
+  }
+
+  function fmt(i) {
+    if (i < 10)  return "[00" + i + "]";
+    if (i < 100) return "[0"  + i + "]";
+    return "["   + i + "]";
+  }
+
+  function truncarTexto(texto, anchoMax) {
+    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.BOLD);
+    if (p.textWidth(texto) <= anchoMax) return texto;
+    let t = texto;
+    while (t.length > 1 && p.textWidth(t + "…") > anchoMax)
+      t = t.substring(0, t.length - 1);
+    return t + "…";
+  }
+
+  function contarLineas(texto, anchoMax) {
+    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.NORMAL);
+    const palabras = texto.split(" ");
+    let linea = "", n = 1;
+    for (let w of palabras) {
+      const prueba = linea.length === 0 ? w : linea + " " + w;
+      if (p.textWidth(prueba) > anchoMax && linea.length > 0) { n++; linea = w; }
+      else linea = prueba;
+    }
+    return n;
+  }
+
+  function dibujarTexto(texto, x, y, anchoMax, limiteY, alpha) {
+    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.NORMAL);
+    p.textAlign(p.LEFT);
+    if (x + anchoMax > p.width - TEXTO_MARGEN)
+      x = p.width - anchoMax - TEXTO_MARGEN;
+    if (x < TEXTO_MARGEN) x = TEXTO_MARGEN;
+    const palabras = texto.split(" ");
+    let linea = "", lh = 13;
+    for (let w of palabras) {
+      if (y > limiteY) break;
+      const prueba = linea.length === 0 ? w : linea + " " + w;
+      if (p.textWidth(prueba) > anchoMax && linea.length > 0) {
+        if (y <= limiteY) p.text(linea, x, y);
+        y += lh; linea = w;
+      } else linea = prueba;
+    }
+    if (linea.length > 0 && y <= limiteY) p.text(linea, x, y);
+  }
+
+});
+</script>
+</body>
+</html>

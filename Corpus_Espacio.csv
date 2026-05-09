@@ -1,0 +1,523 @@
+image,caption,labels,scores
+dataset_images/Performancias/015 Toribío /01.jpg,a woman in a wedding dress,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/015 Toribío /03.jpg,a man standing in front of a white curtain,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/015 Toribío /02.jpg,a man is hanging a curtain on a wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/015 Toribío /05.jpg,a cat is sitting on the floor with its head on the floor,limbo profanado,{}
+dataset_images/Performancias/015 Toribío /04.jpg,a room with a curtain hanging from the ceiling,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/013A Arrozudo /01.jpg,a room with a wooden floor and a white rug,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/013A Arrozudo /03.jpg,a cat laying on a wooden floor with a star pattern,geometría del exterminio,{'geometría del exterminio': 1}
+dataset_images/Performancias/026 El cuarto del artista /01.jpg,a man is upsided on a chair in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/026 El cuarto del artista /02.jpg,a horse with a hat on its head,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /016.jpg,a man in white shirt holding a knife,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /017.jpg,a man in white shirt and white pants holding a bag,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /029.jpg,a close up of a blood vein,mancha moral; evidencia forense; altar de la autoflagelación,"{'mancha moral': 1, 'evidencia forense': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/05 Caquetá /015.jpg,a man is eating food in a crowd,patria inaudita,{'patria inaudita': 1}
+dataset_images/Performancias/05 Caquetá /014.jpg,a man is standing in front of a crowd,patria inaudita,{'patria inaudita': 1}
+dataset_images/Performancias/05 Caquetá /028.jpg,a man is standing on a sidewalk with blood all over his body,evidencia forense; mancha moral; umbral de la carne; altar de la autoflagelación,"{'mancha moral': 1, 'evidencia forense': 2, 'umbral de la carne': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/05 Caquetá /010.jpg,a man is walking down the street with a baseball bat,periferia ontológica; geografía de la huida,"{'periferia ontológica': 1, 'geografía de la huida': 1}"
+dataset_images/Performancias/05 Caquetá /011.jpg,a man holding a baby bird in his hands,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /013.jpg,a man in white shirt and white pants standing on a table,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /012.jpg,a man in a white shirt is holding a bag,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /01.jpg,a van is covered up with a sheet of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/05 Caquetá /03.jpg,a man in a car with a bunch of people,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /02.jpg,a car covered in plastic on a city street,periferia ontológica,{'periferia ontológica': 1}
+dataset_images/Performancias/05 Caquetá /06.jpg,a group of people standing around a line of candles,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /07.jpg,a man kneeling down to a white cat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /05.jpg,a man in a white suit is being carried by a woman,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /04.jpg,a group of people riding in a car,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /09.jpg,a man is putting a bag of bread on the street,periferia ontológica,{'periferia ontológica': 1}
+dataset_images/Performancias/05 Caquetá /08.jpg,a group of people standing around a car,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /023.jpg,a hot dog on the ground with a plastic bottle,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /022.jpg,a baby stroller with a bunch of flowers on it,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /020.jpg,a black and white photo of a pile of wood,arquitectura del desecho,{'arquitectura del desecho': 1}
+dataset_images/Performancias/05 Caquetá /034.jpg,a black and white photo of a man in a suit,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /021.jpg,a black and white photo of a woman,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /025.jpg,a man in a white shirt and tie is cutting a piece of meat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /031.jpg,a large group of people standing around a bloody table,mancha moral; evidencia forense; altar de la autoflagelación,"{'mancha moral': 1, 'evidencia forense': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/05 Caquetá /019.jpg,a black and white image of a large amount of black ink,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /018.jpg,a person standing in the water with their feet in the water,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /030.jpg,a close up of a pile of red food,arquitectura del desecho,{'arquitectura del desecho': 1}
+dataset_images/Performancias/05 Caquetá /024.jpg,a group of people standing around a long line of white objects,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /032.jpg,a person standing in a puddle of water,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /026.jpg,a man in white is holding a knife,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/05 Caquetá /027.jpg,a red bird is perched on a white sheet,limbo profanado,{}
+dataset_images/Performancias/05 Caquetá /033.jpg,blood on the floor,mancha moral; evidencia forense; altar de la autoflagelación,"{'mancha moral': 1, 'evidencia forense': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/08 Mugre /010.jpg,a man holding a black bear in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/08 Mugre /011.jpg,a man holding a dog in his arms,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /013.jpg,a white box with a black and white drawing on it,limbo profanado,{}
+dataset_images/Performancias/08 Mugre /012.jpg,a man holding a dog in his arms,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /01.jpg,a man with a red shirt and a black tie,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /03.jpg,a man is holding a bear in his hands,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /02.jpg,a man carrying a woman on his back,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /06.jpg,a man laying on a bed with a red shirt,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/08 Mugre /07.jpg,a man is pulling a man on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /05.jpg,a man is pulling a man on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /04.jpg,a man in a white shirt and white pants,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /09.jpg,a man is kneeling on the floor with a man,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/08 Mugre /08.jpg,a man is laying on the floor with a dog,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/031Roto /01.jpg,a person is holding a pen and drawing a picture,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/031Roto /03.jpg,a black and white photo of a pile of debris,arquitectura del desecho,{'arquitectura del desecho': 2}
+dataset_images/Performancias/031Roto /02.jpg,a man ' s hand holding a pair of scissors,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/01 10 de marzo /01.jpg,a man is standing in a room with a dog,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/01 10 de marzo /03.jpg,a woman is kneeling on the floor with a knife,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/01 10 de marzo /02.jpg,a man in a white shirt and tie is standing next to a woman,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/01 10 de marzo /05.jpg,a man in a white shirt and a white sheet,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/01 10 de marzo /04.jpg,two people are doing karate in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/019A Ambulancia /01.jpg,a man with a lit candle in his hand,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/019A Ambulancia /03.jpg,a man with a cigarette in his mouth,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/019A Ambulancia /02.jpg,a man with a cigarette in his mouth,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023A Caudillo con bebe/01.jpg,a man holding a heart shaped chocolate heart,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023A Caudillo con bebe/02.jpg,a man holding a human heart in a kitchen,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/020 Asfalto /010.jpg,a toy truck with a pink truck and a pink truck,inocencia profanada,{'inocencia profanada': 1}
+dataset_images/Performancias/020 Asfalto /01.jpg,a man walking down a road with a backpack,geografía de la huida,{'geografía de la huida': 2}
+dataset_images/Performancias/020 Asfalto /03.jpg,a man kneeling down on the side of a road,geografía de la huida,{'geografía de la huida': 1}
+dataset_images/Performancias/020 Asfalto /02.jpg,a man kneeling down to pick up trash on the side of the road,arquitectura del desecho; geografía de la huida,"{'arquitectura del desecho': 1, 'geografía de la huida': 1}"
+dataset_images/Performancias/020 Asfalto /06.jpg,a man is picking up a toy car,inocencia profanada,{'inocencia profanada': 1}
+dataset_images/Performancias/020 Asfalto /07.jpg,a man kneeling down on the ground to pick up trash,arquitectura del desecho,{'arquitectura del desecho': 1}
+dataset_images/Performancias/020 Asfalto /05.jpg,a bunch of colorful toy cars on the side of a road,geografía de la huida; inocencia profanada,"{'geografía de la huida': 1, 'inocencia profanada': 1}"
+dataset_images/Performancias/020 Asfalto /04.jpg,a man kneeling down to pick up a flower,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/020 Asfalto /09.jpg,a bunch of flowers and a bunch of candy on the ground,limbo profanado,{}
+dataset_images/Performancias/020 Asfalto /08.jpg,a man is putting a toy car into the ground,inocencia profanada,{'inocencia profanada': 1}
+dataset_images/Performancias/024 Corona de miedo /01.jpg,a man with a bunch of different colored objects on his head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023D Caudillo con machete /01.jpg,a man in a white shirt and tie,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/03 Acciones individuales /010.jpg,a man standing in an open doorway with graffiti on the walls,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/03 Acciones individuales /01.jpg,a man writing on a wall with writing on it,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/03 Acciones individuales /03.jpg,a man standing in front of a wall with writing on it,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/03 Acciones individuales /02.jpg,a woman writing on a wall with a pen,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/03 Acciones individuales /06.jpg,a book with writing on it,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/03 Acciones individuales /07.jpg,a piece of paper with writing on it,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/03 Acciones individuales /05.jpg,a wall with writing on it,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/03 Acciones individuales /04.jpg,a woman standing in front of a wall with writing on it,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/03 Acciones individuales /09.jpg,a close up of a handwriting on a white background,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/03 Acciones individuales /08.jpg,a piece of paper with writing on it,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /010.jpg,two people standing in a room with newspaper on the floor,anomía habitacional; cartografía lacerada,"{'anomía habitacional': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /011.jpg,a man is standing in front of a wall covered with newspapers,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /013.jpg,a newspaper with a bunch of papers on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/02 12 de marzo /012.jpg,a man standing in front of a wall covered with newspapers,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /01.jpg,a man is standing on a ladder in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/02 12 de marzo /03.jpg,a room with many newspapers on the walls,anomía habitacional; topografía del grito; cartografía lacerada,"{'anomía habitacional': 1, 'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /02.jpg,a man kneeling on the floor in front of a wall covered with newspaper,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /06.jpg,a room with many papers on the walls,anomía habitacional; topografía del grito; cartografía lacerada,"{'anomía habitacional': 1, 'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /07.jpg,a room with many pieces of paper on the floor,anomía habitacional; cartografía lacerada,"{'anomía habitacional': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /05.jpg,a piece of newspaper with a bunch of flowers on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/02 12 de marzo /04.jpg,a room with newspapers on the floor,anomía habitacional; cartografía lacerada,"{'anomía habitacional': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /09.jpg,a room with newspaper on the wall,anomía habitacional; topografía del grito; cartografía lacerada,"{'anomía habitacional': 1, 'topografía del grito': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/02 12 de marzo /08.jpg,a room with a large pile of newspapers,arquitectura del desecho; anomía habitacional; cartografía lacerada,"{'arquitectura del desecho': 1, 'anomía habitacional': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/014 Patria /016.jpg,a box with a light inside it,limbo profanado,{}
+dataset_images/Performancias/014 Patria /015.jpg,a chair is sitting on a wall with a shadow,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/014 Patria /014.jpg,a white wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/014 Patria /010.jpg,a man is hanging a light on a pole,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /011.jpg,a man is kneeling down on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /013.jpg,a man is doing a trick on a pole,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /012.jpg,a man is bending a woman ' s head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /01.jpg,a man is sitting on the floor and writing on a box,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/014 Patria /03.jpg,a man is sitting in a ham ham on a ham,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /02.jpg,a group of people sitting in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/014 Patria /06.jpg,a man laying on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /07.jpg,a man is standing on a chair and holding a rope,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /05.jpg,a man and woman are sitting on a swing,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/014 Patria /04.jpg,a chair with a white sheet covering it,limbo profanado,{}
+dataset_images/Performancias/014 Patria /09.jpg,a man is hanging on a rope in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/014 Patria /08.jpg,a man standing in front of a white wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/012A Mugre UN /01.jpg,a circular floor with a clock on it,limbo profanado,{}
+dataset_images/Performancias/012A Mugre UN /03.jpg,a man in a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/012A Mugre UN /02.jpg,a black and white floor,limbo profanado,{}
+dataset_images/Performancias/012A Mugre UN /06.jpg,a man is throwing a blue umbrella,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/012A Mugre UN /07.jpg,a man is laying on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/012A Mugre UN /05.jpg,a man with a hose in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/012A Mugre UN /11.jpg,a man and a woman painting a wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/012A Mugre UN /10.jpg,a man is painting a large piece of art,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Performancias/012A Mugre UN /04.jpg,a man cleaning a room with a mop,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/012A Mugre UN /09.jpg,a man in a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/012A Mugre UN /08.jpg,a man is dancing in a room with people,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/022 Casita de arroz /01.jpg,a blue building with a bench in front of it,limbo profanado,{}
+dataset_images/Performancias/022 Casita de arroz /03.jpg,a man holding a piece of food in his hand,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/022 Casita de arroz /02.jpg,a man sitting on a bench,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/022 Casita de arroz /06.jpg,a snow sculpture of a man and a woman,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/022 Casita de arroz /05.jpg,a man holding a handful of white flowers,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/022 Casita de arroz /04.jpg,a man sitting down,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/09 morgue /01 img500.jpg,a row of beds in a hospital room,anomía habitacional,{'anomía habitacional': 2}
+dataset_images/Performancias/09 morgue /04 img499.jpg,a piece of meat on a table,limbo profanado,{}
+dataset_images/Performancias/09 morgue /03 img504.jpg,a man is putting a black cow in a stall,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/09 morgue /05 img501.jpg,a fish on a table,limbo profanado,{}
+dataset_images/Performancias/09 morgue /02 img506.jpg,a black table cloth on a white table,limbo profanado,{}
+dataset_images/Performancias/017 Precedentes /01.jpg,a drawing of a man standing on a ledge,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/017 Precedentes /03.jpg,a drawing of a black and white image of a building,limbo profanado,{}
+dataset_images/Performancias/017 Precedentes /02.jpg,a drawing of a man with a knife,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/017 Precedentes /04.jpg,a drawing of a man with a black and white stripe on his shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/028 Invierno infierno /01.jpg,a man kneeling in a muddy puddle,ancestralidad de fango,{'ancestralidad de fango': 1}
+dataset_images/Performancias/028 Invierno infierno /03.jpg,a man carrying a large piece of metal,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/028 Invierno infierno /02.jpg,a man is putting mud into a square,ancestralidad de fango,{'ancestralidad de fango': 1}
+dataset_images/Performancias/030 Piedra /01.jpg,a man laying down with a hot hot object on his head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/034 La pobreza me emputa /010.jpg,a banana that is sitting on the ground,limbo profanado,{}
+dataset_images/Performancias/034 La pobreza me emputa /011.jpg,a banner that reads laorezmenta on a brick wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/034 La pobreza me emputa /013.jpg,a banner that reads ' stop and pray ' is hanging outside a building,limbo profanado,{}
+dataset_images/Performancias/034 La pobreza me emputa /012.jpg,a broken tooth on a brick,fe lacerada,{'fe lacerada': 1}
+dataset_images/Performancias/034 La pobreza me emputa /01.jpg,a cat is walking on the sidewalk in the snow,geografía de la huida,{'geografía de la huida': 1}
+dataset_images/Performancias/034 La pobreza me emputa /03.jpg,a poster on the wall of a building in barcelona,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/034 La pobreza me emputa /02.jpg,a brick building with a sign that reads lagera empa,limbo profanado,{}
+dataset_images/Performancias/034 La pobreza me emputa /06.jpg,a cat is sitting on a window ledge,limbo profanado,{}
+dataset_images/Performancias/034 La pobreza me emputa /07.jpg,a woman laying on the ground,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/034 La pobreza me emputa /05.jpg,a woman with a white dress and a gold bracelet,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/034 La pobreza me emputa /04.jpg,a person with a white shirt and a gold glove,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/034 La pobreza me emputa /09.jpg,a person is laying on the ground with a broken shoe,fe lacerada,{'fe lacerada': 1}
+dataset_images/Performancias/034 La pobreza me emputa /08.jpg,a person with a tattoo on their arm,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/019B Ambulancia II /01.jpg,a man with a fire on his head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/019B Ambulancia II /03.jpg,a man with a bald head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/019B Ambulancia II /02.jpg,a man with a burning hat on his head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/032 Sur /01.jpg,a man holding a map of the world,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/032 Sur /02.jpg,a man in a white shirt is cutting a piece of fruit,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/029 Ola de algodón /01.jpg,a man wearing a blue and white striped mask,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/029 Ola de algodón /03.jpg,a man in a white shirt is holding a blue and white striped tie,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/029 Ola de algodón /02.jpg,a man with a blue and white striped face covering his face,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/029 Ola de algodón /04.jpg,a man in a white shirt holding a blue and white striped tie,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/033 Venus /01.jpg,a man walking down a dirt road,geografía de la huida; ancestralidad de fango,"{'ancestralidad de fango': 1, 'geografía de la huida': 2}"
+dataset_images/Performancias/033 Venus /03.jpg,a person wearing a pair of black rain boots,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/033 Venus /02.jpg,a man standing on the side of a road,geografía de la huida,{'geografía de la huida': 1}
+dataset_images/Performancias/06 Yagé /010.jpg,a black shirt hanging on a wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/06 Yagé /011.jpg,a knife and a knife on a table,limbo profanado,{}
+dataset_images/Performancias/06 Yagé /012.jpg,a white pitcher on a table,limbo profanado,{}
+dataset_images/Performancias/06 Yagé /01.jpg,a man in a black shirt and white hat throwing a frc,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Yagé /03.jpg,a man standing in a field with a fire,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Yagé /02.jpg,a man bending a bowl in the dirt,ancestralidad de fango,{'ancestralidad de fango': 1}
+dataset_images/Performancias/06 Yagé /06.jpg,a man in a black shirt holding a book,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Yagé /07.jpg,a man in a black shirt holding a white froth,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Yagé /05.jpg,a man standing in a dirt field holding a cell,ancestralidad de fango,{'ancestralidad de fango': 1}
+dataset_images/Performancias/06 Yagé /04.jpg,a man is playing soccer on a dirt field,ancestralidad de fango; inocencia profanada,"{'ancestralidad de fango': 1, 'inocencia profanada': 1}"
+dataset_images/Performancias/06 Yagé /09.jpg,a person holding a piece of ice in their hand,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Yagé /08.jpg,a man holding a white jug in a dirt field,ancestralidad de fango,{'ancestralidad de fango': 1}
+dataset_images/Performancias/012B Mugre UN /01.jpg,a white room with a bunch of white paper,anomía habitacional; cartografía lacerada,"{'anomía habitacional': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/012B Mugre UN /03.jpg,a man and woman laying on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/012B Mugre UN /02.jpg,a man standing over a woman laying on the floor,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/012B Mugre UN /06.jpg,a man in a white shirt is hiding behind a pile of paper,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/012B Mugre UN /07.jpg,a person is laying on a bed covered in white sheets,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/012B Mugre UN /05.jpg,a man standing in front of a pile of paper,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/012B Mugre UN /04.jpg,a man is standing on a pile of paper,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/027Hombre coca /01.jpg,a man holding a cup in his hands,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/027Hombre coca /02.jpg,a man with a tree in his head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /016.jpg,a flower that is laying on a table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /017.jpg,a bunch of red roses on a table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /015.jpg,a bunch of red roses on a table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /014.jpg,a pizza with red roses on it,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /010.jpg,a bunch of red roses on a wooden table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /011.jpg,a bunch of red roses on a wooden surface,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /013.jpg,a bunch of red roses on a table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /012.jpg,a bunch of red roses on a wooden table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /01.jpg,a man sitting on the steps,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /03.jpg,a man sitting on the steps,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /02.jpg,a man kneeling down on the ground with roses,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /06.jpg,a man sitting on the steps,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /07.jpg,a man sitting on the steps,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /05.jpg,a man sitting on the steps,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /04.jpg,a man in a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /09.jpg,a bunch of red roses on a wooden table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /08.jpg,a man kneeling down to lay flowers on the ground,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/011 Rose rose Río /020.jpg,a close up of a plate of food with a bunch of leaves,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /019.jpg,a bunch of red roses on a table,limbo profanado,{}
+dataset_images/Performancias/011 Rose rose Río /018.jpg,a close up of a table with a bunch of red roses,limbo profanado,{}
+dataset_images/Performancias/023B Caudillo con higuerilla /01.jpg,a man in a field of plants with a knife,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023B Caudillo con higuerilla /03.jpg,a man sitting in a chair with a plant in his lap,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023B Caudillo con higuerilla /02.jpg,a man sitting in a chair cutting a plant,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023B Caudillo con higuerilla /04.jpg,a man holding a large plant in his hands,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/013B Arrozudo /01.jpg,a pink building,limbo profanado,{}
+dataset_images/Performancias/013B Arrozudo /03.jpg,a person standing on a sidewalk with a skateboard,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/013B Arrozudo /02.jpg,a man is cutting a piece of pizza,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/013B Arrozudo /06.jpg,a group of people standing on the side of a road,geografía de la huida,{'geografía de la huida': 1}
+dataset_images/Performancias/018 Amanecer de fango /01.jpg,a man pushing a cart down the street,periferia ontológica,{'periferia ontológica': 1}
+dataset_images/Performancias/018 Amanecer de fango /03.jpg,a man bending down a wheel,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/018 Amanecer de fango /02.jpg,a man pushing a cart,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/018 Amanecer de fango /06.jpg,a man pushing a large rock on a cart,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/018 Amanecer de fango /05.jpg,a man is bending down a piece of cement,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/018 Amanecer de fango /04.jpg,a man is bending his head into a puddle,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/025 Corrección moral /01.jpg,a man sitting on a bench,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/025 Corrección moral /03.jpg,a man is standing next to another man,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/025 Corrección moral /02.jpg,a man holding a bunch of food,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/025 Corrección moral /04.jpg,a man standing outside,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023C Caudillo /01.jpg,a man with a bald haircut and a tie,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/023C Caudillo /02.jpg,a man in a black shirt and tie,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /010.jpg,a man in a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /011.jpg,a man is holding a pair of scissors in his hand,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /013.jpg,a pile of paper on the floor,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+dataset_images/Performancias/010 Eu-ropa /012.jpg,a table with a bunch of folded paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/010 Eu-ropa /01.jpg,a man in a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /03.jpg,a man is standing on a white surface,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /02.jpg,a man and woman are standing on a runway,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /06.jpg,a man is holding a towel over his head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /07.jpg,a man standing on a bed,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/010 Eu-ropa /05.jpg,a man and woman are standing in front of a bed,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/010 Eu-ropa /04.jpg,a man in a white suit,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/010 Eu-ropa /09.jpg,a man in a white shirt and pants is holding a piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/010 Eu-ropa /08.jpg,a group of people sitting on a bed,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/07 Baby street /010.jpg,a man sitting on a toilet in a bathroom,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/07 Baby street /01.jpg,a man sitting on a white box,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/07 Baby street /03.jpg,a man sitting on a ledge with a towel,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/07 Baby street /02.jpg,a man sitting on a white box,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/07 Baby street /06.jpg,a man in a blue shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/07 Baby street /07.jpg,a man holding a towel,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/07 Baby street /05.jpg,a man in a blue shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/07 Baby street /04.jpg,a man standing next to a wall with a jacket on it,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/07 Baby street /09.jpg,a man is standing next to a man who is holding a piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/07 Baby street /08.jpg,a man is sitting on the ground,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/04 Síntoma /016.jpg,a black and white photo of graffiti on a wall,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/04 Síntoma /017.jpg,a woman in a white dress standing in front of a wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Performancias/04 Síntoma /015.jpg,a man is painting on a wall with a brush,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/04 Síntoma /014.jpg,a man in a white shirt is holding a baseball bat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/04 Síntoma /010.jpg,a man is writing on a wall with graffiti,topografía del grito,{'topografía del grito': 3}
+dataset_images/Performancias/04 Síntoma /011.jpg,a man standing in front of a wall with graffiti,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/04 Síntoma /013.jpg,a man painting on a wall with graffiti,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 2, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/04 Síntoma /012.jpg,a man standing in front of a wall with graffiti,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/04 Síntoma /01.jpg,a camera is sitting on a tripod in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/04 Síntoma /03.jpg,a bottle of alcohol sitting on a shelf,limbo profanado,{}
+dataset_images/Performancias/04 Síntoma /02.jpg,a black and white photo of a room with a wall,anomía habitacional; topografía del grito,"{'anomía habitacional': 1, 'topografía del grito': 1}"
+dataset_images/Performancias/04 Síntoma /06.jpg,a woman is painting a wall with a brush,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/04 Síntoma /07.jpg,a man in a white suit is standing in front of a wall with graffiti,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/04 Síntoma /05.jpg,a man is painting a wall with a brush,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/04 Síntoma /04.jpg,a man is standing in a room with a light on the wall,anomía habitacional; topografía del grito,"{'anomía habitacional': 1, 'topografía del grito': 1}"
+dataset_images/Performancias/04 Síntoma /09.jpg,a man standing in front of a wall with graffiti,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/04 Síntoma /08.jpg,a man standing in front of a wall with graffiti,topografía del grito,{'topografía del grito': 2}
+dataset_images/Performancias/04 Síntoma /018.jpg,a man in a white shirt standing in a room,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/016 Adormidera /01.jpg,a close up of a green leaf,limbo profanado,{}
+dataset_images/Performancias/016 Adormidera /03.jpg,a man is holding a small plant in his hand,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/016 Adormidera /02.jpg,a hand holding a branch of a tree,limbo profanado,{}
+dataset_images/Performancias/016 Adormidera /04.jpg,a small branch with leaves on it,limbo profanado,{}
+dataset_images/Performancias/021 Bola de mugre /01.jpg,a man holding a handful of grass in his hands,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/021 Bola de mugre /03.jpg,a man standing in a boat on a river,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/021 Bola de mugre /02.jpg,a boat is sitting on the shore of a river,limbo profanado,{}
+dataset_images/Performancias/021 Bola de mugre /06.jpg,a man standing on a boat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/021 Bola de mugre /07.jpg,a man holding a piece of food in his hands,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/021 Bola de mugre /05.jpg,a man standing on a beach next to a boat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/021 Bola de mugre /04.jpg,a man in a boat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Bolívar ahora /01.jpg,a man in white pants and a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Bolívar ahora /03.jpg,a man in white pants and a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Bolívar ahora /02.jpg,a man in white pants and a white shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Bolívar ahora /06.jpg,a person with a knife and a piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Performancias/06 Bolívar ahora /07.jpg,a man is laying down on a box,umbral de la carne; cuerpo como arma,{}
+dataset_images/Performancias/06 Bolívar ahora /05.jpg,a man in white shirt and red blood on the floor,mancha moral; evidencia forense; altar de la autoflagelación,"{'mancha moral': 1, 'evidencia forense': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Performancias/06 Bolívar ahora /04.jpg,a man standing in a room with a knife,anomía habitacional,{'anomía habitacional': 1}
+dataset_images/Performancias/06 Bolívar ahora /08.jpg,a man in a white shirt and red shoes,umbral de la carne; cuerpo como arma,{}
+dataset_images/Proyectos/01 Brazo/01.jpg,a drawing of a person holding a baby,umbral de la carne; cuerpo como arma,{}
+dataset_images/Proyectos/05 Proyecto para cámara neumática/01.jpg,a piece of paper with a grid pattern on it,geometría del exterminio; cartografía lacerada,"{'cartografía lacerada': 1, 'geometría del exterminio': 2}"
+dataset_images/Proyectos/02 Estructura/01.jpg,a drawing of a man standing on a ledge,umbral de la carne; cuerpo como arma,{}
+dataset_images/Proyectos/06 Situándome/01.jpg,a drawing of a man with a black and white stripe on his shirt,umbral de la carne; cuerpo como arma,{}
+dataset_images/Proyectos/04 Nicho/01.jpg,a drawing of a black and white image of a building,limbo profanado,{}
+dataset_images/Proyectos/03 Kamentza/01.jpg,a drawing of a man with a knife,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/021 Limpiandome los dedos/01.jpg,a black and white painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/017 Silvia/01.jpg,a drawing of a woman in a dress,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/044 Tejedora con gasa /01.jpg,a black and white painting on a wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/045 Mapuches/01.jpg,a black and white painting with the word nacho written on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/07 Coche de bebe /Coche de bebé.jpg,a piece of paper with a black and white drawing on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/016 Niña San Agustín /01.jpg,a drawing of a man ' s face on a piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/026 Pañuelo blanco y negro/01.jpg,a white cloth with black pieces of paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/11 Awá/01.jpg,three pieces of paper with black ink on them,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/039 El Ártico/01.jpg,an old map of the arctic region,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/043 Cama/01.jpg,a black and white painting of a chair,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/020 Mapas rotos /01.JPG,a white painting on a wall with a wooden frame,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/020 Mapas rotos /03.JPG,a piece of paper with a black and white pattern,cartografía lacerada; geometría del exterminio,"{'cartografía lacerada': 1, 'geometría del exterminio': 1}"
+dataset_images/Dibujos/020 Mapas rotos /02.JPG,a white painting on a wall with a wooden frame,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/020 Mapas rotos /06.JPG,a white piece of paper with a torn piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/020 Mapas rotos /07.JPG,a close up of a piece of paper with a hole in it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/020 Mapas rotos /05.JPG,a piece of paper with black and white paint,cartografía lacerada; altar de la autoflagelación,"{'cartografía lacerada': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/020 Mapas rotos /04.JPG,a white wall with peeling and peeling,topografía del grito,{'topografía del grito': 1}
+dataset_images/Dibujos/020 Mapas rotos /08.JPG,a close up of a white wall with a black and white pattern,topografía del grito; geometría del exterminio,"{'topografía del grito': 1, 'geometría del exterminio': 1}"
+dataset_images/Dibujos/09 Dibujos privados/01.jpg,two black and white photographs of a pattern,geometría del exterminio,{'geometría del exterminio': 1}
+dataset_images/Dibujos/09 Dibujos privados/03.jpg,a black and white painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/09 Dibujos privados/02.jpg,a black and white drawing of a bunch of pine trees,limbo profanado,{}
+dataset_images/Dibujos/042 Pintura robada /01.jpg,a piece of art that is on a wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Dibujos/042 Pintura robada /03.jpg,a room with a wall with a painting on it,anomía habitacional; topografía del grito; altar de la autoflagelación,"{'anomía habitacional': 1, 'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/042 Pintura robada /02.jpg,a wall with a large piece of writing on it,topografía del grito,{'topografía del grito': 2}
+dataset_images/Dibujos/042 Pintura robada /04.jpg,a painting of a bird nest on a blue wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/04 Teresa Gómez/01.jpg,a red painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/04 Teresa Gómez/03.jpg,a red ink spied on a white paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/04 Teresa Gómez/02.jpg,a red painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/023 Anártica/01.jpg,a piece of cardboard with a map on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/08 Bebé/bebé-02.jpg,a black and white photo of a head with a black and white image of a man ' s face,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/022 Lideresa social/01.jpg,a drawing of a woman ' s face with black paint,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/022 Lideresa social/02.jpg,a black and white drawing of a woman ' s face,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/018 El Tablón mujer /010.jpg,a man looking at a large piece of art,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/018 El Tablón mujer /011.jpg,a man is drawing a picture on a piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/018 El Tablón mujer /013.jpg,a man is drawing on a large piece of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/018 El Tablón mujer /012.jpg,a man is painting a large piece of art,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/018 El Tablón mujer /01.jpg,a black and white drawing on a white sheet,limbo profanado,{}
+dataset_images/Dibujos/018 El Tablón mujer /03.jpg,a black and white drawing on a wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Dibujos/018 El Tablón mujer /02.jpg,a black and white drawing of a face,limbo profanado,{}
+dataset_images/Dibujos/018 El Tablón mujer /06.jpg,a man is painting a picture on a white shirt,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/018 El Tablón mujer /07.jpg,a man is painting a shirt with a black and white image,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/018 El Tablón mujer /05.jpg,a man is painting a large piece of art,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/018 El Tablón mujer /04.jpg,a man is painting a large white piece,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/018 El Tablón mujer /09.jpg,a man is painting on a large piece of paper,cartografía lacerada; altar de la autoflagelación,"{'cartografía lacerada': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/018 El Tablón mujer /08.jpg,a man is painting a large face on a shirt,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/052 Niño rojo /01.jpg,a painting of a person in a red coat,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/052 Niño rojo /03.jpg,a painting with a red figure on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/052 Niño rojo /02.jpg,a drawing of a man with a red paint on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/010 Dibujo sucio /010.jpg,a drawing of a black and white painting,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/010 Dibujo sucio /01.jpg,two paintings of brown and black ink on paper,cartografía lacerada; altar de la autoflagelación,"{'cartografía lacerada': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/010 Dibujo sucio /03.jpg,a painting on a wall in a room,anomía habitacional; topografía del grito; altar de la autoflagelación,"{'anomía habitacional': 1, 'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/010 Dibujo sucio /02.jpg,a wall with four paintings on it,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/010 Dibujo sucio /06.jpg,a room with two paintings on the wall,anomía habitacional; topografía del grito; altar de la autoflagelación,"{'anomía habitacional': 1, 'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/010 Dibujo sucio /07.jpg,a white wall with a sign that says ' los ',topografía del grito,{'topografía del grito': 1}
+dataset_images/Dibujos/010 Dibujo sucio /05.jpg,a painting with brown paint on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/010 Dibujo sucio /04.jpg,a painting on a wall with a white background,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/010 Dibujo sucio /09.jpg,a drawing of a piece of art on a wall,topografía del grito,{'topografía del grito': 1}
+dataset_images/Dibujos/010 Dibujo sucio /08.jpg,two paintings of black and white paint on a wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/048 Nukak /01.jpg,a map with a handwritten name on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/040 Mexico y America Central/01.jpg,a piece of paper with a piece of paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/027 NY Times /01.jpg,a pile of newspaper,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+dataset_images/Dibujos/027 NY Times /02.jpg,a pile of old newspaper pieces on a white surface,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+dataset_images/Dibujos/053 Mujer Sinú /01.jpg,a black and white photo of a man in a suit,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/049 Awa japón /01.jpg,a map of japan with a picture of the island,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/054 Hombre Sinú /01.jpg,a drawing of a woman in a black and white photo,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/01 Tolima/01.jpg,a map of the united states,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/024 El cuarto en astillas/01.jpg,a black and white drawing on a white paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/013 Cepíllo /01.jpg,a black and white drawing of a plant,limbo profanado,{}
+dataset_images/Dibujos/055 Niña Sinú /01.jpg,a black and white drawing of a man,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/029 Europa/01.jpg,a book with a painting on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/051 Niño ancestral /IMG_3455.jpg,a black and white painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/010.jpg,a brown and white painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/011.jpg,a brown and black painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/06.jpg,a black and white painting with a black and white background,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/07.jpg,a black and white photo of a man in a suit,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/05.jpg,a black and white photo of a tree,limbo profanado,{}
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/09.jpg,a black and white painting with a black circle,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/06 Mugre recogido ssobre cartón/08.jpg,a drawing of a square shape with a black background,limbo profanado,{}
+dataset_images/Dibujos/025 Cuarto imantado /01.jpg,a painting with black and white paint on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/015 El niño de la casa/01.jpg,a piece of paper with a drawing of a face,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/01 Ártico /01.jpg,an old map of the arctic region,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/012 Los zapaticos de Ana maría /01.jpg,a black and white painting on a white background,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/019 El Tablón en rojo 2/01.jpg,a man is putting blood on a white shirt,mancha moral; evidencia forense; altar de la autoflagelación,"{'mancha moral': 1, 'evidencia forense': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Dibujos/019 El Tablón en rojo 2/03.jpg,a man is painting a red and white shirt,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/019 El Tablón en rojo 2/02.jpg,a red and white tie dye on a white shirt,limbo profanado,{}
+dataset_images/Dibujos/046 Siona/01.jpg,a map of italy with a handwritten name,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/056 Antártica/antártica-2.jpg,a piece of cardboard with a map on it,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/048 mapa borrado con gasa /IMG_3373.jpg,a book with a painting on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/03 Sueño plata /01.jpg,a piece of paper with a drawing of a tree,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/050 Chibcha/01.jpg,a piece of art with a white frame,limbo profanado,{}
+dataset_images/Dibujos/041 Pana - Proyecto costal/01.jpg,a drawing of a man with his legs exposed,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/041 Pana - Proyecto costal/02.jpg,a black and white photo of a horse,limbo profanado,{}
+dataset_images/Dibujos/014 Peineta /01.jpg,a black brush with a white background,limbo profanado,{}
+dataset_images/Dibujos/028 Le Figaro - Le Monde/01.jpg,two pieces of paper with different types of paper,cartografía lacerada,{'cartografía lacerada': 1}
+dataset_images/Dibujos/02 Calima /01.jpg,a black and white drawing of a man ' s face,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/02 Calima /03.jpg,a black and white painting of a woman,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/02 Calima /02.jpg,a black and white painting of a woman,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+dataset_images/Dibujos/02 Calima /04.jpg,a black and white drawing of a woman ' s face,umbral de la carne; cuerpo como arma,{}
+dataset_images/Dibujos/05 Retrato anónimo/01.jpg,a drawing of a man ' s face with a beard,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/07 A manera de emergencia /01.jpg",a glass aquarium with a bunch of fish in it,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/07 A manera de emergencia /03.jpg",a broken glass vase sitting on a white shelf,fe lacerada,{'fe lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/07 A manera de emergencia /02.jpg",a sculpture of a vase with a painting on it,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/011 Fragmentos de mugre /mugre_1987.jpg",four black and white cow spots on a white background,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/042 Puñal pañal /01.jpg",a painting of a large explosion of paint,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/03 Cauca/01.jpg",a piece of paper with a piece of paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/014 Dibujos privados /img910.jpg",a black and white drawing of a bunch of pine trees,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/014 Dibujos privados /img911.jpg",a black and white painting on a white wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/014 Dibujos privados /dibujos completos.jpg",two black and white photographs of a pattern,geometría del exterminio,{'geometría del exterminio': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/010 caribe /01.jpg",a vase with a broken glass vase on a table,fe lacerada,{'fe lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/015 Molotov /01.jpg",a brown piece of cardboard with a white outline of a jar,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/038 Puñado de tierra/01.jpg",a wall with bags hanging on it,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/038 Puñado de tierra/02.jpeg",a room with a wall of white paper on the walls,anomía habitacional; topografía del grito; cartografía lacerada,"{'anomía habitacional': 1, 'topografía del grito': 1, 'cartografía lacerada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/02 Extensión /01.jpg",a room with a wall of white and brown paper,anomía habitacional; topografía del grito; cartografía lacerada,"{'anomía habitacional': 1, 'topografía del grito': 1, 'cartografía lacerada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/02 Extensión /03.jpg",a large piece of wood is on display in a room,anomía habitacional; inocencia profanada,"{'anomía habitacional': 1, 'inocencia profanada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/02 Extensión /02.jpg",a brown blanket hanging on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/029 Lección moral /01.jpg",a large black and white painting on a brick wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/029 Lección moral /02.jpg",a black and white photo of a tree,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/021 Dibujo textual /01.jpg",a red book cover with the words ' oe oe sese me y and,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/04 Objeto ofensiva /01.jpg",a drawing of a bottle with a black substance,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/04 Objeto ofensiva /02.jpg",a piece of paper with a black writing on it,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /01.jpg",a group of people hanging on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /03.jpg",a wall with a bunch of different objects on it,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /02.jpg",a bunch of shoes hanging on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /06.jpg",a wall with a bunch of different objects on it,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /07.jpg",a skateboard with a bunch of shoes on it,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /05.jpg",a pair of shoes hanging on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/012 Alcalde popular /04.jpg",a bunch of old shoes hanging on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/041 Venus Escolar (Múltiple)/01.jpg",a pair of black rubber boots with yellow soles,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/043 Tete /01.jpg",a piece of paper with a drawing of a man,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/043 Tete /02.jpg",a black and white photo of a face,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/027 In memoriam/01.jpg",a picture of a man with a beard and a picture of a woman,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/027 In memoriam/02.jpg",a book with a bunch of paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/019 Emberá chamí /01.jpg",a wooden table,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/019 Emberá chamí /03.jpg",a room with a light shining on the wall,anomía habitacional; topografía del grito,"{'anomía habitacional': 1, 'topografía del grito': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/019 Emberá chamí /02.jpg",a light shining on a small display in a room,anomía habitacional; inocencia profanada,"{'anomía habitacional': 1, 'inocencia profanada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/024 El niño de la casa 3 /01.jpg",a young boy standing in a yard,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/024 El niño de la casa 3 /03.jpg",a drawing of a man in a suit,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/024 El niño de la casa 3 /02.jpg",a drawing of a man with a tie on,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/035 Pañuelo de anacleto/01.jpg",a map of the area of the city of london,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/036 Payé (El coche de Tomás)/01.jpg",a sculpture of a baby stroller,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/036 Payé (El coche de Tomás)/02.jpg",a chair made out of cardboards,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/03 Bodegón de curitas/Bodegón de curitas.jpg",a painting on display in a museum,altar de la autoflagelación; inocencia profanada,"{'altar de la autoflagelación': 1, 'inocencia profanada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/031 Clozapina Yotoco/01.jpg",a silver object on a black surface,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/018 Banderas sucias /01.jpg",a wall with many pieces of paper hanging on it,topografía del grito; cartografía lacerada,"{'topografía del grito': 1, 'cartografía lacerada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/018 Banderas sucias /02.jpg",a bunch of torn papers hanging on a line,cartografía lacerada,{'cartografía lacerada': 2}
+"dataset_images/Objetos, Intervenciones e Instalaciones/044 Villa pum-pum/01.jpg",a bunch of green leaves,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/05 Children´s room/01.jpg",a red spoon with a red plastic spoon,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/05 Children´s room/03.jpg",a toy dog is stuck into a wall,topografía del grito; inocencia profanada,"{'topografía del grito': 1, 'inocencia profanada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/05 Children´s room/02.jpg",a room with a white wall and a white floor,anomía habitacional; topografía del grito,"{'anomía habitacional': 1, 'topografía del grito': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/05 Children´s room/05.jpg",a pink toy with a small dog on it,inocencia profanada,{'inocencia profanada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/05 Children´s room/04.jpg",a pink frame with a pink string on it,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/023 El niño de la casa 2 /01.jpg",a painting of a man with a beard,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/033 Flor de borrachero/01.jpg",a purple and black tie dye painting,altar de la autoflagelación,{'altar de la autoflagelación': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/037 Pijao (Maloca)/Pijao (maloca).jpg",a piece of paper with a house on it,anomía habitacional; cartografía lacerada; infierno doméstico,"{'anomía habitacional': 1, 'cartografía lacerada': 1, 'infierno doméstico': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/034 Oro y mugre /01.jpg",a piece of brown paper with a brown stripe,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/026 Colcha de mugre/01.jpg",a room with a large wall of rocks,anomía habitacional; topografía del grito,"{'anomía habitacional': 1, 'topografía del grito': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /014.jpg",a drawing of a woman holding a baby,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /010.jpg",a book with a red cover and a black pen,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /011.jpg",a notebook with a pen and a drawing of a tooth,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /013.jpg",a drawing of a woman with a face in the corner of a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /012.jpg",a drawing of a man on a horse,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /01.jpg",a book with a picture of a moon on it,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /03.jpg",four open notebooks with a drawing of a man on them,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /02.jpg",two notebooks with a white paper cover and a pen,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /06.jpg",a book with a piece of paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /07.jpg",a drawing of a man in a suit,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /05.jpg",a book with a piece of paper on it,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /04.jpg",a book with a pile of paper on top of it,arquitectura del desecho; cartografía lacerada,"{'arquitectura del desecho': 1, 'cartografía lacerada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /09.jpg",a drawing of a man ' s shirt,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/028 Libretas de apuntes /08.jpg",a book with a cross on it,fe lacerada,{'fe lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/032 Aprendices de chicos malos/01.jpg",a wall with clothes hanging on it,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/032 Aprendices de chicos malos/02.jpg",a white shirt with a green writing on it,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/03 Objeto de cura/01.jpg",a map of central america with a blue background,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/0 Puñal/01.jpg",a painting on a wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/0 Puñal/03.jpg",a white object in a clear box,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/0 Puñal/02.jpg",a picture of a piece of wood on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/0 Puñal/05.jpg",a brown and white wall with a black and white pattern,topografía del grito; geometría del exterminio,"{'topografía del grito': 1, 'geometría del exterminio': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/0 Puñal/04.jpg",a picture of a brown and black frame,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/016 Ana maría /01.jpg",a pair of shoes made out of paper,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/01 Ataúd celeste/ataúd celeste-02.jpg",a piece of paper with a black background,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/045 Nube Gris/01.jpg",a large piece of art on a wall,topografía del grito,{'topografía del grito': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/045 Nube Gris/03.jpg",a black and white photo of a tree,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/045 Nube Gris/02.jpg",a close up of a piece of glass,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/046 Nube gris /DSC01251 copy.jpg",a black and white photo of a plant,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/046 Nube gris /DSC01246 copy.jpg",a close up of a piece of ice,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/046 Nube gris /DSC01216 copy.jpg",a large feather on a wall in a room,anomía habitacional; topografía del grito,"{'anomía habitacional': 1, 'topografía del grito': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/09 El valor moral del mugre/01.jpg",a bowl with fish in it sitting inside of a box,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/017 oro /01.jpg",a pair of shoes on a table,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/06 Diana /01.jpg",a black and white painting on a wall,topografía del grito; altar de la autoflagelación,"{'topografía del grito': 1, 'altar de la autoflagelación': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/013 Arrurru /01.jpg",a room with a chair and a chair in it,anomía habitacional,{'anomía habitacional': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /016.jpg",a small square in a small hole in the ground,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /017.jpg",a small square in a small hole,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /015.jpg",a man laying on the ground,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /014.jpg",two men working in a large deep well dug pit,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /010.jpg",a man digging a hole in the ground,memoria exhumada,{'memoria exhumada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /011.jpg",a large rock in the middle of a dirt field,ancestralidad de fango,{'ancestralidad de fango': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /013.jpg",a large pile of rocks in a dirt field,arquitectura del desecho; ancestralidad de fango,"{'arquitectura del desecho': 1, 'ancestralidad de fango': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /012.jpg",a large pile of rocks in a dirt field,arquitectura del desecho; ancestralidad de fango,"{'arquitectura del desecho': 1, 'ancestralidad de fango': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /01.jpg",two men are standing in a trench,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /03.jpg",a piece of paper with a drawing of a house,anomía habitacional; cartografía lacerada; infierno doméstico,"{'anomía habitacional': 1, 'cartografía lacerada': 1, 'infierno doméstico': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /02.jpg",a square shaped box with a square in it,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /06.jpg",a tree in a park,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /07.jpg",a man is playing frc with a frc,inocencia profanada,{'inocencia profanada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /05.jpg",a drawing of a tree with branches and branches,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /04.jpg",a drawing of a man on a ladder,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /09.jpg",a digger digging dirt,ancestralidad de fango; memoria exhumada,"{'ancestralidad de fango': 1, 'memoria exhumada': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /08.jpg",a man with long hair,umbral de la carne; cuerpo como arma,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/020 Inhumano /018.jpg",a small hole in the ground,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/039 Sudor pantalón /01.jpg",a piece of paper is on a white surface,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/040 Puñal /Payé Rosemberg Sandoval (4).jpg",a brown and white wall with a black and white pattern,topografía del grito; geometría del exterminio,"{'topografía del grito': 1, 'geometría del exterminio': 1}"
+"dataset_images/Objetos, Intervenciones e Instalaciones/040 Puñal /Payé Rosemberg Sandoval (3).jpg",a picture of a brown and black frame,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/025 Chinchorro/01.jpg",a cake with frosting on it,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/025 Chinchorro/02.jpg",a black and white photo,limbo profanado,{}
+"dataset_images/Objetos, Intervenciones e Instalaciones/022 El niño de la casa 1 /01.jpg",a piece of paper with a drawing of a face,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/030 Closapina Calima /01.jpg",a necklace made of paper strips,cartografía lacerada,{'cartografía lacerada': 1}
+"dataset_images/Objetos, Intervenciones e Instalaciones/08 Casita de astillas/01.jpg",a piece of food that is on a table,limbo profanado,{}
+dataset_images/Academia/02 Lucy/01.jpg,a drawing of a woman ' s head,umbral de la carne; cuerpo como arma,{}
+dataset_images/Academia/01 Crisis/01.jpg,a drawing of a woman with a hat,umbral de la carne; cuerpo como arma,{}
+dataset_images/Academia/03 Las sillas de Anacleto/01.jpg,a piece of paper with pink paint on it,cartografía lacerada; altar de la autoflagelación,"{'cartografía lacerada': 1, 'altar de la autoflagelación': 1}"
+dataset_images/Academia/03 Las sillas de Anacleto/02.jpg,a black and white painting on a brown paper,cartografía lacerada; altar de la autoflagelación,"{'cartografía lacerada': 1, 'altar de la autoflagelación': 1}"

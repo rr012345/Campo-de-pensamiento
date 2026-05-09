@@ -1,0 +1,950 @@
+id,obra,año,descripcion_01,descripcion_02,objetos
+0,10 de marzo de 1982,,"Acción corporal realizada con una red de vísceras humanas tejida de antemano - con la que atrapamos al público desprevenido - , pues se anudó simultáneamente de pared a pared luego de desempacarla de una bolsa larga de plástico negro. En la performance hurgo con la historia anónima hecha forma conectándome a una performer asistente a través de una especie de vestido infinito convertido en cordón umbilical de longitud exacta a la malla en vísceras. El traje utilizado lo diseñé con plástico y bolsas selladas contenidas de material orgánico humano.","mujer arafada de pie en una habitación con una cuerda y una bolsa
+hay una mujer que está de pie en una habitación con un perro
+Hay un hombre que está de pie en una escalera con una bolsa
+Hay un hombre de pie en una habitación con un barco en el suelo
+dos mujeres están de pie en una habitación con una sábana en el suelo","['cuerpo arrastrado', 'cuerpo en el suelo', 'cuerpo herido', 'piso', 'cuerpo abandonado']
+['cuerpo en el suelo', 'cuerpo herido', 'cuerpo arrastrado', 'cuerpo abandonado', 'cuerpo abandonado']
+['tejido', 'tela', 'cuerpo de pie', 'manos', 'cuerpo transportado']
+['cuerpo arrastrado', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo en el suelo']
+['tejido', 'tela', 'piso', 'cuerpo acostado', 'cuerpo herido']"
+1,12 de marzo de 1982,1982,"Interior de la galería, ahogado con cortinas hechas de periódico del mismo día (12 de marzo de 1982). El suelo, también estaba alfombrado con una colcha de papel y encima de ésta había periódicos dispersos, apilados y teñidos en sangre. El acceso a esta calurosa placenta de desinformación sólo era posible levantando levemente una de las cortinas, por una de las esquinas.","personas de pie en una habitación con periódico que cubre las paredes
+hombre arafed caminando junto a una pared cubierta por los periódicos
+periódicos con un recorte de periódico con una foto de una casa
+hombre arafed de pie en una patineta delante de una pared cubierta por los periódicos
+arafed foto en blanco y negro de dos personas en una escalera en una habitación
+baño arafed con periódico que cubre las paredes y el suelo
+hombre arafed arrodillado en el suelo en una habitación con periódico que cubre las paredes
+sala de arafed con las paredes de la cubierta del periódico y el inodoro
+habitación arafed con paredes de papel pintado y suelo y techo
+un primer plano de un periódico con un montón de suciedad en él
+sala de arafed con las paredes de la cubierta del periódico y el inodoro
+habitación arafed con una pared cubierta de periódicos y un ventilador de techo
+habitación arafed con paredes de papel pintado y suelo y techo","['espacio interior', 'papel', 'habitación', 'espacio público', 'habitación vacía']
+['papel', 'tejido', 'tela', 'espacio urbano', 'piso']
+['papel', 'tejido', 'tela', 'pared', 'piso']
+['papel', 'tejido', 'espacio interior', 'habitación vacía', 'piso']
+['espacio interior', 'espacio urbano', 'habitación vacía', 'habitación', 'piso']
+['papel', 'cuerpo abandonado', 'cuerpo abandonado', 'espacio interior', 'piso']
+['papel', 'espacio público', 'espacio interior', 'espacio urbano', 'habitación']
+['espacio interior', 'papel', 'habitación', 'habitación vacía', 'piso']
+['espacio interior', 'piso', 'habitación vacía', 'lugar abandonado', 'cuerpo abandonado']
+['cuerpo herido', 'cuerpo acostado', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado']
+['espacio interior', 'habitación vacía', 'habitación', 'papel', 'piso']
+['espacio interior', 'papel', 'habitación', 'habitación vacía', 'espacio urbano']
+['espacio interior', 'habitación vacía', 'papel', 'lugar abandonado', 'piso']"
+2,Acciones individuales,1983,"Dieciséis maneras de suicidarme escritas con cabello de cadáver humano sobre las paredes y el piso de una de las salas del museo, la condición para el público era ingresar descalzo.","hay un hombre de pie en una habitación con una pared y una mesa
+hombre arafed escribiendo en una pared con un gran pedazo de papel
+imagen arafed de un hombre de pie delante de una pared con la escritura en ella
+fotografía arafed de una persona arrodillada delante de una pared con la escritura en ella
+hay un libro con la escritura en él sentado en una mesa
+hay una foto en blanco y negro de una pared con la escritura en ella
+un primer plano de un pedazo de papel con la escritura en él
+imagen arafed de una mujer de pie delante de una pared con la escritura en ella
+un primer plano de una escritura en una pared con un reloj
+hay una gran pieza de escritura en la pared de una habitación","['espacio interior', 'cuerpo de pie', 'papel', 'espacio público', 'tejido']
+['pared', 'papel', 'tejido', 'tela', 'piso']
+['papel', 'tejido', 'tela', 'piso', 'mujer']
+['papel', 'piso', 'espacio interior', 'tejido', 'habitación']
+['papel', 'cuerpo acostado', 'tela', 'tejido', 'espacio interior']
+['papel', 'tejido', 'tela', 'mano', 'persona']
+['papel', 'tela', 'tejido', 'piso', 'persona']
+['papel', 'habitación vacía', 'tejido', 'tela', 'pared']
+['mano', 'papel', 'persona', 'manos', 'cuerpo arrastrado']
+['papel', 'tejido', 'piso', 'cuerpo acostado', 'habitación']"
+3,Caquetá,1984,"Performance hecha en una plaza pública con sobrantes de madera amazónica entorchados con gasa, colocados a manera de camino quiebrapatas y escupitadas después con enjuagues de sangre.","hombre de araffe en camisa blanca sosteniendo un montón de zanahorias en frente de una multitud
+hombre araffe en camisa blanca sosteniendo una bolsa de comida en frente de una multitud
+hay un líquido rojo que está siendo vertido en un corazón
+araffes comiendo comida de un plato delante de una multitud
+araffes un hombre está sosteniendo una cámara y tomando una foto de un hombre
+araffe en el suelo con sangre en él y la gente de pie alrededor
+arafed hombre sosteniendo un bate de béisbol en frente de una multitud de personas
+arafed hombre sosteniendo a un bebé en sus brazos mientras se sienta en una silla
+hombre arafed en camisa blanca y pantalones blancos sosteniendo un manojo de flores
+hombre arafed en camisa blanca sosteniendo una bolsa negra con la gente en el fondo
+van araffatured cubierto con envoltura de plástico en una calle de la ciudad
+camión arafed con un hombre en una camisa blanca y un grupo de personas
+hay un coche cubierto de plástico en la calle
+grupo arafed de personas de pie en una acera con palos blancos largos
+las araffes están sentadas en el suelo con las piernas cruzadas
+hombre arafed empujando una camilla con un bebé en ella
+araffes en un coche con una sábana sobre la cabeza
+gente de pie alrededor de un hombre con una bolsa de equipaje
+gente viendo a un hombre tirado en una cama frente a una multitud
+hay una bolsa púrpura con un mango rojo en una mesa
+Hay un hombre empujando un carro con una cama en él
+hay muchos palos de madera que están sentados juntos
+hay una foto de un hombre sosteniendo un gato en una camisa
+un acercamiento de una persona que sostiene una foto de una persona
+hombre de araffe en traje blanco sosteniendo una bolsa de sangre
+sangre arafeada en el suelo con gente de pie alrededor
+hay una foto en blanco y negro de un pedazo de papel con un dibujo de un oso de peluche
+araffes de pie en el barro con sus pies cubiertos de barro
+hay muchos palitos rojos de comida que se están cocinando
+gente de pie alrededor de una larga línea de tuberías blancas en un camino de ladrillo
+hay dos pies en un charco de líquido rojo
+hombre araffe en traje blanco y pintura roja en su cara caminando delante de una multitud
+hay un guante rojo en la pierna de una persona
+manchas de sangre en un pedazo de papel con una regla","['cuerpo transportado', 'cadáver', 'cadáver', 'cuerpo lesionado', 'cuerpo herido']
+['mancha de sangre', 'sangrado del cuerpo', 'cuerpo lesionado', 'suciedad', 'cuerpo herido']
+['sangrado del cuerpo', 'mancha de sangre', 'materia orgánica', 'cuerpo lesionado', 'cuerpo herido']
+['multitud', 'manos', 'grupo de personas', 'contacto físico', 'interacción']
+['cuerpo lesionado', 'cuerpo transportado', 'multitud', 'grupo de personas', 'interacción']
+['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'cuerpo lesionado', 'sangre']
+['mancha de sangre', 'multitud', 'tela', 'cuerpo lesionado', 'sangrado del cuerpo']
+['cuerpo transportado', 'cuerpo herido', 'sangrado del cuerpo', 'cuerpo lesionado', 'cadáver']
+['cuerpo transportado', 'cuerpo de pie', 'mancha', 'hombre', 'contacto físico']
+['cuerpo transportado', 'cuerpo lesionado', 'cabeza', 'materia orgánica', 'cuerpo herido']
+['espacio público', 'cuerpo en el suelo', 'tela', 'espacio urbano', 'calle']
+['cuerpo lesionado', 'cuerpo acostado', 'cuerpo abandonado', 'cuerpo abandonado', 'grupo de personas']
+['cuerpo acostado', 'cuerpo transportado', 'cuerpo sucio', 'cuerpo abandonado', 'cuerpo abandonado']
+['cadáver', 'cadáver', 'cuerpo en el suelo', 'cuerpo inmóvil', 'cuerpo acostado']
+['cuerpo lesionado', 'cuerpo herido', 'cadáver', 'cadáver', 'sangrado del cuerpo']
+['cuerpo transportado', 'cuerpo lesionado', 'cadáver', 'cadáver', 'grupo de personas']
+['multitud', 'grupo de personas', 'tela', 'cuerpo transportado', 'cuerpo lesionado']
+['cuerpo transportado', 'cuerpo lesionado', 'cadáver', 'cadáver', 'cuerpo herido']
+['cadáver', 'cadáver', 'cuerpo herido', 'cuerpo lesionado', 'cuerpo acostado']
+['cuerpo lesionado', 'cuerpo herido', 'cuerpo arrastrado', 'cuerpo transportado', 'plástico']
+['cuerpo lesionado', 'cuerpo herido', 'cuerpo acostado', 'cadáver', 'cadáver']
+['cuerpo arrastrado', 'herida', 'materia orgánica', 'cuerpo herido', 'mancha de sangre']
+['tela', 'cuerpo transportado', 'cuerpo herido', 'tejido', 'herida']
+['tela', 'tejido', 'sangre', 'mancha', 'cuerpo transportado']
+['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'sangre', 'mancha']
+['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'cuerpo lesionado', 'sangre']
+['cuerpo lesionado', 'cuerpo herido', 'materia orgánica', 'mancha de sangre', 'mancha']
+['manos', 'cuerpo arrastrado', 'pies', 'mano', 'cuerpo abandonado']
+['sangrado del cuerpo', 'cuerpo herido', 'cuerpo lesionado', 'mancha de sangre', 'sangre']
+['cadáver', 'cadáver', 'cuerpo en el suelo', 'cuerpo lesionado', 'cuerpo acostado']
+['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'sangre', 'cuerpo lesionado']
+['mancha de sangre', 'cuerpo de pie', 'sangrado del cuerpo', 'multitud', 'cuerpo lesionado']
+['sangrado del cuerpo', 'cuerpo herido', 'cuerpo lesionado', 'mancha de sangre', 'herida']
+['mancha de sangre', 'cuerpo herido', 'cuerpo lesionado', 'sangrado del cuerpo', 'mancha']"
+4,Síntoma,1984,"Mi acción corporal inicia horas antes con el robo de una lengua a un cadáver de un preso político encontrado en la morgue de Guayaquil, Ecuador. Luego, a las 7 pm, hora acordada para la performance, ingreso al Museo Antropológico y Pinacoteca de allí ataviado con un traje impecable de plástico y gasa y saco de mi bolsillo la lengua envuelta en gasa, que impregno una y otra vez de sangre humana vencida donada por la Cruz Roja Ecuatoriana y escribo con fuerza y ansiedad sobre cada una de las paredes de la sala: desaparición, temor, violación, masacre, asesinato, dolor, hambre y corrupción, una palabra encima de otra a manera de palimpsesto. Quedando como documento de la performance coágulos fétidos de sangre, lengua y gasa disueltos en las paredes y el piso del museo.","graffiti en una pared con una foto en blanco y negro de una palabra
+arafed fotografía en blanco y negro de una mujer con un vestido blanco
+hombre arafed en camisa blanca pintura en la pared con pintura blanca
+Hay un hombre que se está lavando las manos en el baño.
+hombre arafed de pie delante de una pared con una señal que dice buenas noticias
+hombre arafed en traje blanco caminando en una habitación con graffiti en la pared
+hombre arafed pintando una pared con una gran cantidad de graffiti
+arafed hombre de pie en una habitación con una pared que tiene graffiti en ella
+habitación arafed con una cámara y un trípode en ella
+hay una botella de alcohol y una botella de medicina en una bolsa
+hay dos pedazos de papel en el suelo en una habitación
+mujer arafed en un vestido blanco pintar una pared con un gran par de tijeras
+hombre arafed en una camisa blanca y pantalones blancos pintando una pared con un gran par de tijeras
+hombre arafed pintando una pared con una hoja blanca de plástico
+hay un hombre que está pintando una pared con un pincel
+hombre arafed parado delante de una pared con graffiti en ella
+graffiti en una pared con un hombre de pie delante de ella
+hombre arafed en un vestido blanco de pie en una habitación con graffiti en las paredes","['cadáver', 'piso', 'basura', 'espacio urbano', 'tela']
+['tela', 'tejido', 'cuerpo de pie', 'cuerpo cubierto', 'cuerpo envuelto']
+['sangrado del cuerpo', 'cuerpo herido', 'mancha', 'tejido', 'mancha de sangre']
+['manos', 'tela', 'tejido', 'mano', 'cuerpo cubierto']
+['espacio público', 'tejido', 'habitación vacía', 'espacio urbano', 'espacio interior']
+['habitación vacía', 'cadáver', 'espacio público', 'basura', 'cuerpo arrastrado']
+['interacción', 'tejido', 'pared', 'mancha', 'sangrado del cuerpo']
+['espacio interior', 'habitación vacía', 'cadáver', 'espacio público', 'espacio urbano']
+['habitación vacía', 'espacio interior', 'cuerpo de pie', 'habitación', 'piso']
+['cuerpo arrastrado', 'cuerpo transportado', 'espacio interior', 'plástico', 'tejido']
+['espacio interior', 'habitación vacía', 'piso', 'espacio urbano', 'espacio público']
+['tela', 'tejido', 'cuerpo de pie', 'mujer', 'habitación vacía']
+['tejido', 'mancha', 'espacio urbano', 'tela', 'habitación']
+['tejido', 'tela', 'mujer', 'pared', 'cuerpo cubierto']
+['habitación vacía', 'cuerpo de pie', 'cuerpo inmóvil', 'habitación', 'interacción']
+['habitación', 'habitación vacía', 'espacio interior', 'piso', 'cuerpo abandonado']
+['cadáver', 'espacio público', 'espacio urbano', 'tejido', 'papel']
+['cuerpo abandonado', 'cuerpo abandonado', 'mancha', 'habitación vacía', 'tejido']"
+5,Bolívar Ahora,1985,"Performance
+Plaza de Bolívar. Bogotá,
+Colombia.
+
+Durante siete minutos de la tarde del Viernes 1 ° de Marzo
+de1985 (seis meses antes de la toma del Palacio de Justicia), es-
+cupí de manera chamánica, obsesiva y vigorosa sobre el Bolívar
+de bronce de Tenerani ubicado en la Plaza de Bolívar de Bogo-
+tá-Colombia. Esta acción suicida la realicé con sangre humana
+vencida de la Cruz Roja recogida en bolsas transparentes anu-
+dadas en las esquinas y remarcadas con autoadhesivos impresos
+de lugares en conflicto de nuestro país como: Cauca, Caquetá,
+Meta, Choco, Magdalena, Antioquia y Valle del cauca.
+Este operativo político tuvo de antemano una gran línea blanca
+de papel adherida al suelo de la plaza, conectando a Bolívar
+por el norte con el antiguo Palacio de justicia y por el sur con
+el Capitolio Nacional. Sobre esta línea blanca me desplacé,
+dejando en mi recorrido muchas bolsas transparentes anudadas
+contenidas de sangre. Luego subiéndome a su pedestal en una
+escalera forrada en gaza y esparadrapo y ataviado con un traje
+de plástico blanco diseñado para la performance, rasgué una
+bolsa con mis dientes y lo escupí una y otra vez. Esos minutos
+de la hora gris estuvieron acompañados de un puñado de
+amigos y amigas, masacrados tiempo después, algunos policías
+y soldados que no alcanzaron a digerir lo que sucedió, sino
+hasta cuando desaparezco de la escena real y de un personaje
+muy especial, el fotógrafo popular anónimo que me donó de
+manera desinteresada este registro fotográfico único.","hay un hombre en un traje blanco doblando sobre el suelo
+hay un hombre en pantalones blancos y una camisa blanca con sangre en la cara
+Hay un hombre que está de pie en una cama con una botella
+Hay un hombre que está de pie en una cornisa con una bolsa
+Hay un hombre que está de pie en una cornisa con sangre en ella
+hombre arafed en camisa blanca y pantalones blancos con sangre en la pierna
+hay muchos proyectiles de bala en el suelo en la oscuridad
+hombre arafed en camisa blanca y pantalones con sangre en su cuerpo","['piso', 'tejido', 'cuerpo en el suelo', 'cuerpo herido', 'cuerpo lesionado']
+['cuerpo en el suelo', 'cuerpo herido', 'cuerpo lesionado', 'piso', 'sangrado del cuerpo']
+['piso', 'tejido', 'tela', 'cuerpo en el suelo', 'mancha de sangre']
+['cuerpo herido', 'cuerpo arrastrado', 'cadáver', 'sangrado del cuerpo', 'cadáver']
+['cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado', 'cuerpo arrastrado']
+['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'cuerpo lesionado', 'sangre']
+['cuerpo en el suelo', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado', 'cadáver']
+['mancha de sangre', 'sangrado del cuerpo', 'cuerpo herido', 'cuerpo lesionado', 'cuerpo abandonado']"
+6,Yagé,1992,"Autoflagelación realizada primero con un vidrio y luego con un crucifijo al que le ensamblo un bisturí para cirugía. Tanto en la primera versión, como en la segunda, es decir la del crucifijo, retomo de manera suicida un ritual tan sagrado como el del Yagé. Pues en ambas performances me lacero cerca del estómago, leo un texto de Cortázar y recojo sangre con mi mano, para tomármela después.","hay un vestido negro colgando en una percha en una habitación
+hay una jarra blanca y un martillo en la mesa
+hay una jarra blanca sentada en una mesa con un cuchillo y un tazón
+Hay un hombre inclinándose para recoger un frisbee
+Hay un hombre de pie en un círculo de fuego sosteniendo un libro
+Hay un hombre inclinándose para recoger un frisbee
+hay un hombre con una camisa negra sosteniendo un libro
+Hay un hombre en la arena sosteniendo un cuchillo.
+Hay un chico joven de pie en un círculo de sangre
+Hay un hombre de pie en un campo con una bolsa de basura
+alguien sosteniendo un pedazo de papel con una foto de un hombre en él
+araffe en un vestido negro sosteniendo un pedazo de papel en un círculo","['tela', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo de pie', 'tejido']
+['cuerpo herido', 'mancha de sangre', 'cuerpo lesionado', 'cadáver', 'cadáver']
+['cuerpo herido', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado', 'mancha de sangre']
+['tierra', 'cuerpo en el suelo', 'suciedad', 'cuerpo de pie', 'barro']
+['mujer', 'espacio público', 'materia orgánica', 'cuerpo inmóvil', 'interacción']
+['cuerpo en el suelo', 'tierra', 'piso', 'cuerpo de pie', 'cuerpo herido']
+['barro', 'sangrado del cuerpo', 'mancha de sangre', 'suciedad', 'cuerpo herido']
+['cuerpo herido', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado', 'sangrado del cuerpo']
+['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado']
+['tierra', 'materia orgánica', 'mujer', 'cuerpo en el suelo', 'espacio público']
+['cuerpo herido', 'cabeza', 'materia orgánica', 'cuerpo humano', 'cuerpo lesionado']
+['cuerpo herido', 'cuerpo lesionado', 'sangrado del cuerpo', 'cuerpo abandonado', 'cuerpo abandonado']"
+7,Baby Street,1998 - 1999,"Baby Street Performance asistida. Es la entrada de un niño gamín al Museo, en donde lo limpio con ayuda de compresas de gasa y alcohol para construirle después con las mismas gasas usadas una especie de friso infinito hecho en mugre, a la altura de sus ojos.","hay un hombre sentado en el suelo en un baño
+hay un hombre sentado en una plataforma blanca en una habitación
+están sentados en una cornisa y uno sostiene una manta
+están sentados en un banco con una patineta en la mano
+son dos hombres sentados en una cama con una toalla
+Hay un hombre sosteniendo una toalla sobre su cabeza.
+son dos hombres sentados en una cama con una hoja de papel
+hay un hombre de pie junto a una pared con una camisa y un paraguas
+hay dos hombres de pie y sentados en un inodoro en un baño
+son dos hombres sentados en el suelo en una habitación","['mancha de sangre', 'cuerpo lesionado', 'cuerpo herido', 'cadáver', 'cadáver']
+['piso', 'habitación vacía', 'espacio interior', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo lesionado', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'espacio público']
+['espacio público', 'cuerpo sentado', 'piso', 'cuerpo transportado', 'pies']
+['cuerpo lesionado', 'cuerpo herido', 'lesión', 'mancha de sangre', 'sangrado del cuerpo']
+['lesión', 'cuerpo lesionado', 'cuerpo herido', 'sangrado del cuerpo', 'herida']
+['cuerpo lesionado', 'cuerpo herido', 'lesión', 'sangrado del cuerpo', 'mancha de sangre']
+['tela', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado']
+['tela', 'tejido', 'mancha de sangre', 'papel', 'pared']
+['tela', 'mancha de sangre', 'tejido', 'cuerpo herido', 'sangrado del cuerpo']"
+8,Mugre,1999,"Performance asistida. Acción hecha con el desplazamiento de un indigente al hombro, desde su lugar de asentamiento hasta una de las salas del Museo de Arte Moderno, en donde utilizándolo como un trapo sucio y sobre mis hombros todavía, voy dibujando con él una línea de dolor y mugre sobre la pared blanca del museo. Enseguida, y colocándolo después sobre una base impecable de madera que hay en el piso, escribo con él de manera enferma, esta vez agarrándolo de los pies y rayando con la espalda del miserable la base blanca. El precedente de ""Mugre"" es una acción de 1980 (Labriego) que está construida a partir de arrastrar el cadáver de un preso político sobre la plaza de Bolívar de Bogotá para que la plaza y el asfalto se lo fueran comiendo a medida que yo lo iba arrastrando. Por razones de seguridad no la he podido hacer y se quedó en mi libreta de proyectos.","hay un hombre sosteniendo un gran animal en sus brazos
+hay un hombre llevando un objeto grande en sus brazos
+hay una caja blanca con un dibujo negro en ella
+hay un hombre sosteniendo un gran objeto negro en sus brazos
+hay un hombre con una camisa roja y una corbata negra
+Hay un hombre llevando un perro en la espalda.
+Hay un hombre llevando un perro en sus brazos
+hay un hombre acostado en una cama con una camisa roja
+Son dos hombres peleando por un hombre acostado en una cama.
+hay un hombre que sostiene un pedazo grande de tela
+Hay un hombre que está de pie con su espalda a la pared
+son dos hombres en una habitación uno está pintando el otro está pintando
+Hay un hombre tirado en el suelo con un hombre de pie sobre él","['cuerpo transportado', 'cuerpo herido', 'cadáver', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo transportado', 'cuerpo lesionado', 'cuerpo herido', 'contacto físico', 'sangre']
+['tela', 'mancha de sangre', 'papel', 'cuerpo herido', 'mancha']
+['cuerpo transportado', 'cuerpo lesionado', 'cuerpo herido', 'cuerpo de pie', 'cuerpo abandonado']
+['persona', 'cuerpo lesionado', 'cabeza', 'hombre', 'sangre']
+['cuerpo transportado', 'cuerpo herido', 'cuerpo lesionado', 'sangrado del cuerpo', 'cuerpo arrastrado']
+['cuerpo lesionado', 'cuerpo herido', 'cuerpo transportado', 'mancha de sangre', 'cadáver']
+['cuerpo acostado', 'cuerpo lesionado', 'cuerpo herido', 'cadáver', 'cadáver']
+['cuerpo herido', 'cuerpo lesionado', 'sangrado del cuerpo', 'cuerpo acostado', 'cadáver']
+['cuerpo herido', 'cuerpo lesionado', 'cuerpo acostado', 'cadáver', 'cadáver']
+['cuerpo transportado', 'cuerpo lesionado', 'cuerpo herido', 'sangrado del cuerpo', 'sangre']
+['cuerpo lesionado', 'cuerpo herido', 'mancha de sangre', 'cuerpo arrastrado', 'cadáver']
+['cuerpo lesionado', 'cuerpo herido', 'cadáver', 'cadáver', 'sangrado del cuerpo']"
+9,Morgue,1999,"Performance. Performance hecha en privado en una morgue de Cali con el cuerpo de un obrero anónimo a quien le coloqué en una de sus manos una veladora encendida.
+","hay muchas camas en una habitación con cubiertas negras en ellas
+alguien está sosteniendo una vela en su mano mientras se acuesta en una cama
+Hay un hombre que está de pie en una cocina con una vaca
+hay un animal muerto con una vela en una mesa
+hay un paño negro que cubre la mesa en la habitación","['cuerpo abandonado', 'cuerpo abandonado', 'cuerpo acostado', 'cadáver', 'cadáver']
+['cuerpo herido', 'cadáver', 'cadáver', 'cuerpo lesionado', 'cuerpo acostado']
+['cadáver', 'cadáver', 'cuerpo lesionado', 'cuerpo herido', 'cuerpo acostado']
+['cuerpo herido', 'cuerpo lesionado', 'cadáver', 'cadáver', 'cuerpo humano']
+['cuerpo acostado', 'cuerpo abandonado', 'cuerpo abandonado', 'tela', 'cuerpo herido']"
+10,Eu-ropa,1999 - 2022,"Red borrosa y permeable hecha con retazos de ropa. Una especie de mapa roto y enfermo, hecho con ropa usada y extendida a las paredes del lugar y los espectadores.","araffes haciendo un ritual delante de una multitud de personas
+alguien está sosteniendo un par de tijeras en su mano
+hay un pedazo de papel blanco en el suelo con un montón de pedazos rotos
+Hay un pastel blanco con un caballo encima.
+araffes en una camisa blanca y pantalones está sosteniendo un objeto blanco
+Hay un hombre que se arrodilla para cortar un pastel.
+araffe esquilando una oveja frente a una multitud de personas
+Hay un hombre de pie sobre una mujer tumbada en el suelo.
+Hay un hombre sobre una mujer acostado en una cama.
+hay un hombre arrodillado para cortar un pastel con un cuchillo
+araffes están de pie en un escenario con un vestido blanco en él
+hombre araffe sosteniendo un pedazo de papel blanco en frente de una multitud
+araffe tendido en un colchón con un gran grupo de personas mirando","['cuerpo transportado', 'grupo de personas', 'tela', 'cuerpo acostado', 'multitud']
+['cuerpo lesionado', 'cuerpo herido', 'sangrado del cuerpo', 'piso', 'espacio interior']
+['cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado', 'cadáver']
+['cuerpo lesionado', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo envuelto']
+['cuerpo transportado', 'multitud', 'tejido', 'tela', 'cuerpo de pie']
+['multitud', 'grupo de personas', 'cuerpo sentado', 'cuerpo lesionado', 'piso']
+['multitud', 'grupo de personas', 'cuerpo lesionado', 'cuerpo acostado', 'cuerpo sentado']
+['tela', 'cuerpo transportado', 'cuerpo acostado', 'cadáver', 'cadáver']
+['multitud', 'grupo de personas', 'cuerpo sentado', 'cuerpo transportado', 'cuerpo lesionado']
+['grupo de personas', 'piso', 'tejido', 'tela', 'multitud']
+['cuerpo transportado', 'tela', 'cuerpo de pie', 'cuerpo envuelto', 'cuerpo cubierto']
+['cuerpo transportado', 'tela', 'cuerpo de pie', 'tejido', 'grupo de personas']
+['cuerpo acostado', 'cadáver', 'cadáver', 'cuerpo lesionado', 'cuerpo herido']"
+11,Rose-Rose,2001,"Vestido de blanco, sentado en un metate precolombino, descalzo y con un gran ramo de espinosas y frescas rosas en mis manos, que empuñé brutalmente una y otra vez hasta herirme y sangrar; confundiéndose luego la caída obsesiva de tallos rotos, hojas sueltas y pétalos rojos prensados fuertemente con mis manos con algunas gotas de sangre cayendo sobre el suelo blanco. Se supone que quedaron entonces laceradas mis manos con dibujos azarosos hechos de rasguños, a manera de una ilegible, incierta y enferma cartografía de dolor.","hay una rosa que está en la mesa con sangre en ella
+hay una rosa que está sentada en una mesa con sangre
+hay un manojo de rosas rojas en el suelo con pétalos
+hay muchas rosas rojas en la mesa con un cuchillo
+hay una rosa que se ha dejado en el suelo
+hay un montón de rosas rojas en una mesa con un cuchillo
+hay muchas rosas rojas en la mesa con hojas verdes
+hay una rosa que está en el suelo con pétalos
+hay un hombre sentado en los escalones con rosas en el suelo
+hay un hombre sentado en los escalones con un manojo de flores
+hay un hombre sentado en el suelo con rosas en el suelo
+hay un hombre sentado en los escalones con un ramo de flores
+hay un hombre sentado en los escalones con un manojo de flores
+hombre arafed sentado en el suelo con un montón de rosas
+araffe haciendo un espectáculo de rosas delante de una multitud
+hay una rosa que está en el suelo con un cuchillo
+hay un hombre arrodillado para tomar una foto de un arreglo floral
+hay un primer plano de un montón de rosas rojas
+hay muchas rosas rojas esparcidas en el suelo en el suelo
+hay muchas rosas rojas en la mesa con hojas verdes","['sangrado del cuerpo', 'mancha de sangre', 'cuerpo herido', 'herida', 'cuerpo lesionado']
+['sangrado del cuerpo', 'cuerpo herido', 'mancha de sangre', 'cuerpo lesionado', 'sangre']
+['pared', 'cuerpo herido', 'cuerpo lesionado', 'piso', 'cuerpo acostado']
+['pared', 'sangrado del cuerpo', 'cuerpo herido', 'cuerpo acostado', 'herida']
+['sangrado del cuerpo', 'cuerpo herido', 'mancha de sangre', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo herido', 'sangrado del cuerpo', 'mancha de sangre', 'herida', 'cuerpo abandonado']
+['pared', 'sangrado del cuerpo', 'cuerpo herido', 'materia orgánica', 'mancha de sangre']
+['sangrado del cuerpo', 'cuerpo herido', 'mancha de sangre', 'herida', 'cuerpo lesionado']
+['piso', 'cuerpo en el suelo', 'espacio público', 'cuerpo acostado', 'cadáver']
+['espacio público', 'multitud', 'cuerpo transportado', 'grupo de personas', 'materia orgánica']
+['piso', 'espacio público', 'sangrado del cuerpo', 'cuerpo en el suelo', 'cuerpo inmóvil']
+['sangrado del cuerpo', 'cuerpo herido', 'mancha de sangre', 'cuerpo lesionado', 'tela']
+['cuerpo transportado', 'espacio público', 'cuerpo lesionado', 'cuerpo en el suelo', 'mujer']
+['piso', 'espacio público', 'cuerpo herido', 'mancha de sangre', 'cuerpo en el suelo']
+['multitud', 'espacio público', 'grupo de personas', 'piso', 'tejido']
+['cuerpo herido', 'sangrado del cuerpo', 'herida', 'mancha de sangre', 'cuerpo abandonado']
+['espacio público', 'cuerpo en el suelo', 'piso', 'cadáver', 'cadáver']
+['materia orgánica', 'cuerpo herido', 'pared', 'sangrado del cuerpo', 'herida']
+['pared', 'cuerpo en el suelo', 'sangrado del cuerpo', 'cuerpo acostado', 'cuerpo herido']
+['pared', 'sangrado del cuerpo', 'piso', 'tela', 'cuerpo herido']"
+12,Mugre UN,2003,"En el suelo, a gran escala, con la ayuda de una plantilla y en una de las salas de exhibición del Centro Cultural de Cali, dibujé de antemano, el logotipo de la ONU con mugre en polvo, que recogí allí, extendiéndolo y disolviéndolo luego con la presión del agua de una manguera enrollada y anudada con una sábana celeste a una de las esquinas de la sala. Con la sábana refregué el suelo ya fangoso y dibujé con ella sobre las paredes de la sala. Para esta performance estuve protegido con botas pantaneras y delantal de caucho blanco sobre ropa blanca y oscura. Este sello en mugre de las Naciones Unidas quedó reventado sobre las paredes y el piso húmedo del Centro Cultural convirtiéndose en una instalación impenetrable y sólo perceptible a través de unas puertas de vidrio transparentes.","arafed imagen de un piso circular con un mapa del mundo en él
+Hay un hombre de pie en una habitación con una bolsa de basura
+arafed imagen de un piso circular con un mapa del mundo
+Hay un hombre de pie en una habitación con un paraguas azul
+hay un hombre que se inclina para poner una sábana en el suelo
+Hay un hombre que está de pie en una habitación con una manguera
+Hay dos hombres que están pintando una pared juntos
+pintar una pared con un hombre y un perro en una habitación
+hay un hombre que está limpiando el suelo con una fregona
+Hay un hombre que está de pie en una habitación con un paño azul
+hay un hombre que está de pie en una habitación con una manta","['piso', 'cuerpo en el suelo', 'cuerpo arrastrado', 'espacio interior', 'habitación vacía']
+['piso', 'habitación', 'plástico', 'tela', 'habitación vacía']
+['piso', 'espacio interior', 'cuerpo en el suelo', 'espacio urbano', 'tierra']
+['cuerpo lesionado', 'cuerpo herido', 'cadáver', 'cadáver', 'cuerpo acostado']
+['cuerpo en el suelo', 'cuerpo acostado', 'cuerpo herido', 'cuerpo lesionado', 'piso']
+['piso', 'cuerpo lesionado', 'cuerpo herido', 'cuerpo en el suelo', 'materia orgánica']
+['pared', 'papel', 'interacción', 'líquido', 'espacio interior']
+['pared', 'tela', 'líquido', 'tejido', 'mancha']
+['cuerpo de pie', 'piso', 'cuerpo herido', 'mancha de sangre', 'cuerpo lesionado']
+['cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo en el suelo', 'cuerpo lesionado']
+['piso', 'tela', 'cuerpo en el suelo', 'tejido', 'cuerpo inmóvil']"
+13,Arrozudo. (Versión Caracas),2005 - 2006,Bandera de Estados Unidos construida con arroz directamente sobre el asfalto.,"hay un edificio rosa en el lado de la carretera
+alguien de pie en una acera con una estrella en la acera
+alguien se está lavando los pies con una esponja en una calle
+gente de pie en la acera con un hombre barriendo la calle","['calle', 'espacio público', 'tierra', 'pared', 'cuerpo lesionado']
+['mancha de sangre', 'cuerpo herido', 'cuerpo lesionado', 'piso', 'herida']
+['líquido', 'cuerpo en el suelo', 'materia orgánica', 'mancha de sangre', 'manos']
+['espacio público', 'cuerpo en el suelo', 'calle', 'mancha de sangre', 'cadáver']"
+14,Arrozudo. (Versión Bogotá),2018,Arroz y plantilla.,"hay una gran bandera americana en el suelo en una habitación
+suelo de madera arafed con estrellas blancas en él y una alfombra blanca","['piso', 'espacio interior', 'pared', 'habitación vacía', 'espacio urbano']
+['pared', 'piso', 'mancha', 'mancha de sangre', 'tela']"
+15,Patria,2012,"Mi ritual comienza vestido de blanco, descalzo, rapado, con muy poca luz, arrastrando la historia viva anónima sobre el suelo de la antigua estación del ferrocarril. Una historia de una vida desgarradora, dolorosa sin normas y sin límites, de alguna manera eterna, Halada y condensada en un envoltorio en forma de lliclla de sobrevivencia contenida con un colchón, una mesa de madera, un taburete, una madre desplazada por la violencia y una caja de cartón con el que atravieso el espacio, froto el piso, lo rasgo y lo vacío, para luego, izar uno a uno los objetos y a ella. La caja de cartón es tratada como caja de luz iluminando el espacio con un texto titilante irradiado desde adentro por un cabo de vela encendido que anuda una anti-escena asistida de dolor, piedad y misterio.","hay una caja con una luz dentro de ella en el suelo
+sombras de la silla y la escalera en la pared
+hay dos piezas de arte colgando del techo
+arafed imagen de un hombre en una habitación con una silla y una caja
+están en una habitación con una caja y un hombre en el suelo
+hombre arafed haciendo un pie de mano en un poste con una mujer
+hombre arafed colgando boca abajo en una cuerda mientras otro hombre mira
+imagen arafed de un hombre arrodillado delante de una caja
+hombre arafed sosteniendo una sábana en una habitación con una cuerda
+personas sentadas en una habitación viendo a un hombre de pie frente a una multitud
+hay un hombre tendido en el suelo con una caja en el fondo
+hombre arafed en camisa blanca y pantalones bronceados lijando una silla de madera
+Hay dos personas que están sentadas en una cama en una habitación
+hay una persona sentada en una silla cubierta con una sábana
+hombre arafed en una camisa blanca balanceando una cuerda en una habitación
+Hay un hombre que sostiene un zapato en su mano.","['basura', 'cuerpo inmóvil', 'basura', 'espacio urbano', 'cuerpo humano']
+['pared', 'cuerpo de pie', 'habitación vacía', 'cuerpo sentado', 'espacio urbano']
+['cuerpo herido', 'cuerpo arrastrado', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado']
+['espacio interior', 'habitación vacía', 'habitación', 'cuerpo arrastrado', 'espacio urbano']
+['cuerpo en el suelo', 'cuerpo arrastrado', 'cuerpo herido', 'piso', 'cuerpo lesionado']
+['cuerpo de pie', 'cuerpo transportado', 'cuerpo arrastrado', 'cuerpo herido', 'espacio público']
+['tejido', 'cuerpo transportado', 'cuerpo arrastrado', 'tela', 'cuerpo herido']
+['piso', 'espacio interior', 'tejido', 'habitación', 'habitación vacía']
+['tejido', 'cuerpo arrastrado', 'tela', 'cuerpo acostado', 'cuerpo envuelto']
+['multitud', 'espacio interior', 'espacio público', 'grupo de personas', 'piso']
+['cuerpo en el suelo', 'cuerpo acostado', 'cuerpo arrastrado', 'cuerpo herido', 'cadáver']
+['cuerpo de pie', 'cuerpo arrastrado', 'tejido', 'espacio interior', 'piso']
+['cuerpo arrastrado', 'cuerpo herido', 'espacio interior', 'cuerpo sentado', 'cuerpo en el suelo']
+['cuerpo arrastrado', 'cuerpo acostado', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo arrastrado', 'espacio interior', 'habitación vacía', 'cuerpo herido', 'pared']
+['cuerpo de pie', 'cuerpo arrastrado', 'tejido', 'cuerpo transportado', 'cuerpo herido']"
+16,Toribío,2015,"Desde finales de los años setenta, siendo estudiante de arte aún, me interesó recoger de lugares marginales en conflicto, juguetes, zapatos, ropa, cobijas, además, tomar de fosas comunes los huesos que ahora reduzco a polvo y ceniza adherido a una sábana blanca, convertida de antemano en constelación y ataviada para esta ocasión como ruana, poncho o bandera de la pobreza, construida con miles de esquirlas de hueso de colombianos indígenas y campesinos asesinados y sepultados en sus parcelas. En esta pieza performática voy vestido con la bandera– ruana, que luego izo sobre una astilla de madera empotrada en la pared, después me despojo de una camisa ungida en el polvo de tierra de Toribío Cauca, que retuerzo y sacudo sobre la bandera para imantar el lugar.","hay un hombre que está de pie sobre un pedazo de tela
+hay un hombre de pie delante de una cortina con una huella de pájaro en ella
+hay un hombre colgando del techo con una patineta
+suelo de madera arafed con una mancha de pintura negra en él
+hay una habitación con una cortina y un suelo de madera","['tejido', 'cuerpo acostado', 'cuerpo transportado', 'tela', 'espacio interior']
+['tela', 'tejido', 'cuerpo de pie', 'habitación vacía', 'cuerpo herido']
+['pared', 'espacio interior', 'cuerpo de pie', 'tejido', 'papel']
+['piso', 'cuerpo en el suelo', 'pared', 'cuerpo herido', 'tierra']
+['cuerpo cubierto', 'espacio interior', 'cuerpo envuelto', 'habitación vacía', 'tela']"
+17,La pobreza me emputa,2022,"Durante el marco de la feria de arte ARTBO 2022 en Bogotá, tuve la oportunidad de matar un muerto, lanzando desde el techo de la Galería Casas-Riegner a Dios: una representación en yeso y a escala natural de Jesucristo, convertida contra el piso en una constelación de esquirlas y polvo de escayola. Acto seguido, escarbo y recojo algunas esquirlas, dibujando con una de ellas sobre una ventana forrada de antemano en papel de lija. El cuerpo de Cristo tenía en todo su cuerpo lacerado textos como: dolor, violación, odio, hambre o incertidumbre, que nos señalan problemas históricos esenciales alimentados por la invención de ideologías, nuestra familia y el Estado.","hay un plátano que se ha dejado en el suelo
+hay un estandarte que lee mano de obra me enpita en la parte delantera de un edificio
+Hay una pancarta en el lado de un edificio que dice, "" ventanas rotas ""
+hay un pedazo de papel roto en el suelo
+hay una pared roja con un alféizar de ventana negro y un alféizar de ventana blanco
+hay una señal en la pared que dice que no es un buen momento para estar en la ciudad
+hay un gran edificio de ladrillo con una señal en la parte delantera
+hay una estatua de un hombre colgando de un edificio
+mujer arafed tumbada en el suelo con un televisor roto
+mujer arafe con una envoltura de plástico alrededor de su cuerpo y una señal que dice violación
+arafed torso macho con un pedazo de papel pegado a él
+Hay un hombre que está tirado en el suelo con un zapato roto
+pierna arafeada con una señal en ella puesta en el suelo","['cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado', 'cuerpo en el suelo']
+['cuerpo lesionado', 'espacio público', 'cuerpo herido', 'cuerpo en el suelo', 'espacio urbano']
+['espacio público', 'espacio urbano', 'cuerpo herido', 'lugar abandonado', 'cuerpo abandonado']
+['cuerpo en el suelo', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo herido', 'pared']
+['pared', 'piso', 'tierra', 'mancha de sangre', 'espacio urbano']
+['espacio público', 'tejido', 'papel', 'plástico', 'espacio urbano']
+['papel', 'piso', 'espacio urbano', 'espacio interior', 'pared']
+['espacio urbano', 'pared', 'cuerpo de pie', 'mujer', 'espacio público']
+['cuerpo en el suelo', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo herido', 'cuerpo lesionado']
+['lesión', 'cuerpo cubierto', 'tejido', 'mujer', 'piel']
+['cuerpo humano', 'cuerpo herido', 'tejido', 'cuerpo lesionado', 'tela']
+['cuerpo en el suelo', 'cuerpo herido', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo abandonado', 'cuerpo abandonado', 'cuerpo en el suelo', 'cuerpo herido', 'cadáver']"
+18,Caudillo (Con higuerilla),1997 - 2007,"Cubierto de manera impecable con ropa negra y caqui, y en un lugar marginal de Jamundí, recogí una a una, hojas de higuerilla que anillé en forma de ramo con una banda plástica y me lo uncí al cuello, encontrándome sentado en una silla plegable.","Hay un hombre que está de pie en la hierba con un palo
+Hay un hombre sentado en una silla sosteniendo una planta
+alguien está sosteniendo un montón de grandes plantas verdes en sus manos
+hombre arafed sosteniendo una planta grande en un campo de plantas verdes","['materia orgánica', 'cuerpo de pie', 'cuerpo transportado', 'pared', 'grupo de personas']
+['materia orgánica', 'espacio público', 'cuerpo sentado', 'hombre', 'persona']
+['materia orgánica', 'cuerpo transportado', 'pared', 'cuerpo arrastrado', 'interacción']
+['materia orgánica', 'hombre', 'cuerpo de pie', 'pared', 'cabeza']"
+19,Asfalto,1987 - 2007,Objetos (pequeños juguetes deteriorados) introducidos de manera obsesiva y en fila dentro de las fisuras del asfalto de la Vía Panamericana del Sur.,"Hay dos camiones de juguete que están sentados uno al lado del otro
+Hay un hombre caminando por el camino con una mochila
+Hay un hombre arrodillado al lado del camino.
+Hay un hombre arrodillado al lado del camino.
+alguien está recogiendo un pedazo de fruta de una línea de coches de juguete
+hay un hombre arrodillado en el suelo con una patineta
+hay muchos trenes de juguete que están alineados en el lado de la carretera
+alguien está recogiendo una flor del suelo con un par de tijeras
+hay muchos juguetes pequeños en el suelo al lado de la calle
+Alguien está recogiendo un coche de juguete desde el suelo","['cuerpo en el suelo', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado', 'cuerpo herido']
+['calle', 'tierra', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado']
+['tierra', 'materia orgánica', 'cuerpo en el suelo', 'piso', 'calle']
+['calle', 'cuerpo herido', 'cuerpo lesionado', 'tierra', 'lesión']
+['cuerpo lesionado', 'cuerpo en el suelo', 'cuerpo herido', 'lesión', 'cuerpo abandonado']
+['cuerpo en el suelo', 'tierra', 'materia orgánica', 'cuerpo lesionado', 'cuerpo abandonado']
+['cuerpo en el suelo', 'cuerpo abandonado', 'cuerpo abandonado', 'tierra', 'materia orgánica']
+['cuerpo en el suelo', 'cuerpo lesionado', 'cuerpo herido', 'materia orgánica', 'tierra']
+['cuerpo en el suelo', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo lesionado', 'cuerpo herido']
+['cuerpo lesionado', 'cuerpo en el suelo', 'cuerpo herido', 'cuerpo abandonado', 'cuerpo abandonado']"
+20,Caudillo (Con machete),2000 - 2007,"De pies, con indumentaria luctuosa y con ademán de foto para documento, posé sobre mi pecho uno de los pocos objetos llevados consigo por mis padres durante nuestro desplazamiento forzado y padecido en 1960 de la vereda Pedro Sánchez en Obando hacia Cali.",hombre arafed en una camisa blanca y corbata de pie delante de un fondo negro,"['cuerpo de pie', 'tela', 'cuerpo lesionado', 'cuerpo herido', 'persona']"
+21,Caudillo (Con lengua),2000 - 2007,"Vertical (con una piscina de formol atestada de cadáveres humanos como fondo), posé con ropa negra y con una lengua de un cadáver humano anónimo enganchada a mi cuello.","hombre arafed con cabeza calva y corbata en camisa negra
+Hay un hombre usando una camisa negra y una corbata.","['cabeza', 'tela', 'cuerpo lesionado', 'cuerpo herido', 'cuerpo de pie']
+['persona', 'cuerpo de pie', 'tela', 'cabeza', 'cuerpo lesionado']"
+22,Amanecer de fango,2000 - 2007,"Frente a la casa de mis padres, un indigente adulto procedió a lavarse la cara, los brazos y las manos en un charco de agua fango para reiniciar su jornada de trabajo.","Hay un hombre caminando por la calle con un carro
+hombre araffe beber agua de una olla en la calle
+hombre arafed empujando un carro con una gran sábana en él
+hombre arafed empujando un carro con una gran roca en él
+hombre araffe lavándose las manos en un charco de agua
+hombre araffe apoyado sobre una rueda en el lado de una carretera","['calle', 'espacio público', 'espacio urbano', 'cuerpo de pie', 'persona']
+['barro', 'espacio público', 'cuerpo sucio', 'calle', 'líquido']
+['cuerpo transportado', 'basura', 'calle', 'persona', 'cuerpo acostado']
+['cuerpo transportado', 'cuerpo herido', 'cuerpo arrastrado', 'cuerpo lesionado', 'cuerpo envuelto']
+['barro', 'cuerpo sucio', 'materia orgánica', 'suciedad', 'cuerpo lesionado']
+['barro', 'cuerpo sucio', 'espacio público', 'calle', 'suciedad']"
+23,Ambulancia I,2000 - 2007,"Pequeño atentado terrorista, provocado sobre mi hombro con una ambulancia de juguete en llamas. Para esta performance tuve camisa oscura en un espacio cerrado.","Hay un hombre con un camión de bomberos sobre un fondo negro
+hombre arafed con un cigarrillo en la boca y un coche de juguete en el hombro
+Hay un hombre que sostiene un encendedor en su mano","['sangre', 'persona', 'hombre', 'sangrado del cuerpo', 'mancha']
+['sangre', 'persona', 'hombre', 'cabeza', 'sangrado del cuerpo']
+['hombre', 'persona', 'sangre', 'cuerpo humano', 'sangrado del cuerpo']"
+24,Venus,2000 - 2007,"Performance hecha caminando, sobre uno de los bordes del asfalto de la Vía Panamericana Sur, con uno de mis pies (el derecho) calzado con una bota pantanera desplazándose por el monte, y el otro pie con la otra bota pantanera puesta y convertida de antemano en zapato escolar para niña voy pisando el asfalto.","Hay un hombre caminando por el camino con un bastón
+hay una persona de pie en la acera con zapatos negros
+Hay un hombre de pie en el lado de la carretera","['cuerpo de pie', 'materia orgánica', 'tierra', 'barro', 'calle']
+['pies', 'lesión', 'tierra', 'barro', 'cuerpo lesionado']
+['calle', 'cuerpo de pie', 'tierra', 'tela', 'piso']"
+25,Brigada de corrección moral (Fuego),2000 - 2007,"Pequeño atentado terrorista, provocado con un carrito encendido en medio de una fila de espera, durante el almuerzo de los estudiantes de una universidad pública de Cali.",,
+26,Corona de miedo,1987 - 2007,"Guirnalda hecha de juguetes estropeados, sucios y rotos (caballo, silla, cuna, etc.) atravesados por un círculo de acero y colocada sobre mi cabeza tusa (para esta ocasión estuve vestido de blanco, descalzo, y con las manos atrás en un espacio cerrado y oscuro).",hombre arafed con un montón de objetos surtidos en su cabeza,"['plástico', 'basura', 'persona', 'hombre', 'cabeza']"
+27,Invierno - infierno,2000 - 2007,Lonas en diferentes formatos sumergidas en lodo.,"hay un hombre arrodillado en el barro con una tabla blanca
+Hay un hombre sosteniendo un pedazo de metal oxidado en un camino de tierra
+alguien se está inclinando para poner un pedazo de tierra en un cuadrado","['materia orgánica', 'barro', 'pared', 'papel', 'tierra']
+['mancha de sangre', 'cuerpo herido', 'materia orgánica', 'cuerpo abandonado', 'cuerpo abandonado']
+['barro', 'materia orgánica', 'piso', 'suciedad', 'cuerpo sucio']"
+28,Ola de algodón,2000 - 2007,"Colchoncito de juguete, utilizado como tapaboca y luego ligeramente enrollado y convertido en ola","hombre arafed con una cara de rayas azul y blanco que cubre su cara
+hay un hombre sosteniendo una corbata y un bolsillo en su mano
+hombre arafed en una camisa blanca y una máscara de la cara de rayas azul y blanco
+hombre arafed en camisa blanca sosteniendo una corbata de rayas azul y blanco","['tela', 'tejido', 'cuerpo envuelto', 'plástico', 'papel']
+['cuerpo transportado', 'tela', 'manos', 'cuerpo lesionado', 'cuerpo expuesto']
+['tela', 'tejido', 'cuerpo envuelto', 'pared', 'hombre']
+['tela', 'tejido', 'cuerpo transportado', 'cuerpo envuelto', 'manos']"
+29,Brigada de corrección moral (Ración elemental),2000 - 2007,"Sentado en la banca en donde permanece un anciano esperando la muerte, colgué en mi cuello un pequeño mini-mercado de sobrevivencia (en forma de collar) entregado después al anciano.","araffy hombre sentado en un banco con un montón de bolsas de comida
+son dos hombres de pie fuera de un edificio hablando
+hombre arafed sosteniendo un manojo de comida empaquetada en frente de una puerta
+Hay un hombre fuera de un edificio sosteniendo una bolsa de comida.","['cuerpo transportado', 'tela', 'tejido', 'persona', 'manos']
+['cuerpo transportado', 'grupo de personas', 'interacción', 'persona', 'cuerpo lesionado']
+['plástico', 'basura', 'basura', 'materia orgánica', 'papel']
+['persona', 'materia orgánica', 'calle', 'cuerpo transportado', 'tela']"
+30,Sur,2000 - 2007,"Mapa imposible, arrugado y convertido en bola de mugre.","hombre arafed sosteniendo un mapa del mundo en sus manos
+hombre arafed en camisa blanca cortando un pedazo de pastel con un cuchillo","['papel', 'hombre', 'materia orgánica', 'cabeza', 'tierra']
+['manos', 'mano', 'persona', 'hombre', 'tela']"
+31,Bola de mugre,2000 - 2007,"Esferas de mugre anudadas y comprimidas con mis manos, con la basura que el rio no puede asimilar y vomita en su orilla.","alguien sosteniendo un puñado de hierba seca en sus manos
+hay dos barcos que están sentados en el agua
+barcos están estacionados en la orilla de un río con un árbol en el fondo
+Hay un hombre parado en un muelle sosteniendo una serpiente.
+Hay un hombre sosteniendo una cuerda en sus manos
+Hay un hombre de pie en la orilla de un río sosteniendo una cuerda
+Hay un hombre que está de pie en el agua con un perro","['materia orgánica', 'pared', 'tela', 'suciedad', 'tejido']
+['grupo de personas', 'barro', 'cuerpo lesionado', 'cuerpo transportado', 'cuerpo abandonado']
+['pared', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo acostado', 'cuerpo lesionado']
+['materia orgánica', 'cabeza', 'cuerpo transportado', 'pared', 'hombre']
+['materia orgánica', 'manos', 'mano', 'cabeza', 'cuerpo transportado']
+['barro', 'materia orgánica', 'cuerpo lesionado', 'pies', 'cuerpo abandonado']
+['barro', 'materia orgánica', 'grupo de personas', 'cuerpo lesionado', 'cuerpo transportado']"
+32,Piedra I,1997 - 2007,"Metate de piedra precolombino impregnado de alcohol, puesto sobre mi pecho desnudo que lo hizo palpitar de manera casi subliminal, mientras se consumía el fuego.",hombre arafed tirado en el suelo con una roca en la espalda,"['cuerpo herido', 'cuerpo arrastrado', 'cuerpo humano', 'cuerpo acostado', 'cuerpo lesionado']"
+33,Adormidera,2000 - 2007,Hojas de planta de la adormidera cerradas entre sí al contacto con mi presencia.,"el primer plano de la planta con las hojas verdes y los tallos marrones
+alguien está sosteniendo una planta en su mano y mirándola
+alguien está sosteniendo una planta con hojas verdes en la mano
+hay un pajarito sentado en una rama de un árbol","['pared', 'materia orgánica', 'cabeza', 'cuerpo lesionado', 'cuerpo de pie']
+['materia orgánica', 'mano', 'manos', 'pared', 'interacción']
+['mano', 'pared', 'materia orgánica', 'manos', 'cuerpo lesionado']
+['pared', 'materia orgánica', 'cabeza', 'cuerpo lesionado', 'cuerpo de pie']"
+34,Ambulancia II,2000 - 2007,"Pequeño atentado terrorista, provocado sobre mi cabeza rapada con una ambulancia de juguete en llamas. Para esta performance tuve camisa oscura en un espacio cerrado.","hombre arafed con un camión de bomberos en la cabeza
+hombre arafed en una camisa negra mirando a la cámara
+hombre arafed con un coche en la parte superior de su cabeza con un fuego en la parte superior","['cabeza', 'hombre', 'persona', 'sangre', 'basura']
+['cabeza', 'cuerpo de pie', 'persona', 'hombre', 'piso']
+['cabeza', 'hombre', 'sangre', 'persona', 'basura']"
+35,Casita de arroz,2004 - 2007,"Casita elemental hecha con unos pocos granos de arroz crudo, colocada en la palma de mi mano y destruida luego al empuñarla, finalmente dispersada en el suelo. En esta acción me senté en el banco de madera en donde un anciano de Jamundí, Colombia, espera su muerte. (Q.E.P.D.)","hay un pequeño banco de madera fuera de un edificio
+alguien sosteniendo un pedazo de plástico en su mano en el suelo
+hay un hombre sentado en un banco delante de un edificio
+hay un pastel esmerilado con una casa encima.
+alguien sosteniendo un puñado de arena en su mano en el suelo
+alguien está sosteniendo un plátano en su mano y señalándolo","['calle', 'pared', 'lugar abandonado', 'tela', 'cuerpo abandonado']
+['mano', 'manos', 'interacción', 'persona', 'cuerpo herido']
+['espacio urbano', 'espacio público', 'persona', 'cuerpo abandonado', 'cuerpo abandonado']
+['papel', 'espacio urbano', 'interacción', 'grupo de personas', 'pared']
+['mano', 'manos', 'materia orgánica', 'lesión', 'interacción']
+['mano', 'manos', 'lesión', 'cuerpo lesionado', 'herida']"
+36,Roto,2007,Fotografía de un hombre pobre e iluminado atacada a puñal convirtiendo a el hombre iluminado en un hombre roto. (Reproducción Fernel Franco Q.E.P.D.).,"alguien está sosteniendo un pedazo de papel con una foto de un fuego
+hay una foto en blanco y negro de un manojo de flores
+alguien está cortando un pedazo de papel con un cuchillo en una mesa","['manos', 'materia orgánica', 'interacción', 'papel', 'suciedad']
+['cuerpo herido', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado', 'espacio interior']
+['papel', 'manos', 'materia orgánica', 'pared', 'mano']"
+37,El cuarto del artista,2007,"Acción corporal hecha dentro del cuarto de mi hermano (en la casa de mis padres), en donde colgué de sus pies y del dintel de la puerta a un indigente.","hombre arafed haciendo un pie de mano en una habitación atropellada
+Hay un hombre sosteniendo un par de zapatos en su cabeza.","['cuerpo abandonado', 'cuerpo abandonado', 'cuerpo herido', 'cuerpo lesionado', 'pared']
+['cuerpo arrastrado', 'cuerpo transportado', 'cuerpo de pie', 'tela', 'persona']"
+38,Caudillo (Con bebé),2000 - 2007,"Conspicuo, envuelto en ropa negra y como fondo una piscina de formol atestada de cadáveres humanos, posé con el cadáver de una bebé colgado a mi cuello con ademán de una deidad contemporánea. La bebé murió junto a su madre por pobreza extrema.","hombre arafed en camisa negra sosteniendo una estatua de bebé
+hombre arafed en una camisa negra y corbata sosteniendo a un bebé","['cabeza', 'cuerpo de pie', 'persona', 'cuerpo transportado', 'cuerpo humano']
+['cuerpo de pie', 'cuerpo transportado', 'cuerpo arrastrado', 'cuerpo humano', 'hombre']"
+39,Ataúd celeste,1980,Acrílico y esmalte sobre pañal suspendido con ganchos de metal a una cuerda. 72 cm x 63 cm.,un primer plano de un pedazo de tela colgando de una línea de ropa,"['tela', 'materia orgánica', 'tejido', 'cuerpo herido', 'pared']"
+40,Extensión,1980 - 1981,"Tela de género, (sábana usada), teñida de manera obsesiva en café colombiano y soportada de una sonda plástica repleta de orines míos. La tela está unida a la sonda por medio de ganchos metálicos (nodrizas). 180 cm x 450 cm x 20 cm.","hay un gran paño marrón colgando en la pared en una habitación
+hay un gran paño marrón colgando en la pared en una habitación
+hay una manta marrón colgando en una línea de ropa","['espacio interior', 'habitación vacía', 'tejido', 'cuerpo herido', 'habitación']
+['materia orgánica', 'cuerpo herido', 'tejido', 'tela', 'espacio interior']
+['tela', 'tejido', 'pared', 'cuerpo arrastrado', 'cuerpo envuelto']"
+41,Pañuelo de Anacleto,1983,"Fotocopia sobre pañuelo de mi papá quien fue desplazado en 1960 de su finca en la vereda Pedro Sanchez, norte del Valle del Cauca (Colombia).",un primer plano de un mapa sobre un paño de mesa,"['tela', 'tejido', 'papel', 'piso', 'pared']"
+42,Bodegón con curitas,1984,"Objetos metálicos encontrados en una masacre ocurrida en el norte del departamento del Cauca, Colombia. Curados con venditas autoadhesivas. Exhibición: En orden de aparición. Real Academia de Bellas Artes de Madrid, España 2019.",hay una vitrina con una pintura y un tazón en ella,"['espacio interior', 'cuerpo herido', 'habitación', 'cuerpo arrastrado', 'grupo de personas']"
+43,Objeto de cura,1984,Mapa de Centroamérica National Geographic y vendas autoadhesivas.,mapa arafed de América Central con un mapa del país,"['piso', 'tela', 'pared', 'mancha de sangre', 'papel']"
+44,Cauca,1984 - 1985,Heliografía y tela usada,hay un pedazo de tela colgando en un perchero,"['tela', 'tejido', 'cuerpo herido', 'cuerpo envuelto', 'pared']"
+45,Objeto de ofensiva,1984 - 1985,"Dibujo de una molotov automática, ruso-española rediseñada en Colombia, hecho a escala sobre papel carta con cabello del cadáver de un preso político anónimo, enviado por correo aéreo nacional y a domicilio a galeristas, coleccionistas de arte, críticos de arte y artistas. Una versión macro fue exhibida en Cien Años de Arte Colombiano, organizada por el Museo de Arte Moderno de Bogotá en 1985-1986. Otra versión titulada Objetos de Ofensiva fue exhibida en el Centro de Arte y Comunicación CAYC, Buenos Aires, Argentina, 1986. También estuvo en las Retrospectivas 1981- 2000 del Museo de Arte Moderno la Tertulia de Cali y el Museo Ex-teresa Arte Actual de México D.F., 2002, 1981-2006, en el Museo Jacobo Borges de Caracas en 2006 y en Cantos, Cuentos Colombianos. Casa Daros. Rio de Janeiro en 2013.","arafed imagen de una bomba sobre un pedazo de papel
+arafed pedazo de papel con una imagen en blanco y negro de un hombre","['papel', 'cuerpo herido', 'cuerpo arrastrado', 'tela', 'herida']
+['papel', 'tela', 'cuerpo herido', 'cuerpo lesionado', 'materia orgánica']"
+46,Molotov,1984 - 1985,Grafito y gasa sobre cartón. Exhibida en Cien Años de Arte Colombiano. MAMBO 240 cm x 120 cm.,hay una imagen de un cartón marrón con una bomba en él,"['cuerpo de pie', 'cuerpo transportado', 'espacio interior', 'piso', 'pared']"
+47,Children´s room,1985 - 1986,"Instalación hecha con alambre de púas, algodón, madera, cuero, caucho y acrílico.","hay una cuchara roja con un mango rojo en una mesa blanca
+hay un pequeño caballo de juguete que se pega en la esquina de la pared
+hay una habitación con un piso blanco y una pared blanca con varios objetos en ella
+hay un objeto rosa con un pequeño cangrejo en él
+hay un marco rosa con alambre rosa en él","['pared', 'cuerpo arrastrado', 'cuerpo herido', 'tejido', 'sangrado del cuerpo']
+['cabeza', 'cuerpo herido', 'cuerpo arrastrado', 'cuerpo abandonado', 'cuerpo abandonado']
+['espacio interior', 'habitación vacía', 'habitación', 'tejido', 'plástico']
+['papel', 'cuerpo arrastrado', 'pared', 'cuerpo envuelto', 'plástico']
+['pared', 'tejido', 'cuerpo arrastrado', 'tela', 'papel']"
+48,Diana,1986 - 1986,Dibujo hecho con los pies (bota militar) sobre papel y objetos adosados.,hay una pintura en blanco y negro en una pared con tijeras de color rosa,"['materia orgánica', 'tejido', 'tela', 'herida', 'cuerpo arrastrado']"
+49,A manera de emergencia,1985,"Objeto construido con desechos de atentado terrorista, recogidos en el centro de Cali.","hay un jarrón de vidrio con palos y un pájaro en él
+hay una escultura de cristal con palos que sobresalen de ella
+hay una escultura de cristal en un soporte de madera con una tarjeta","['pared', 'espacio urbano', 'lugar abandonado', 'plástico', 'materia orgánica']
+['materia orgánica', 'cuerpo herido', 'pared', 'plástico', 'cuerpo arrastrado']
+['pared', 'materia orgánica', 'cuerpo herido', 'espacio urbano', 'cuerpo arrastrado']"
+50,Puñal,1987 - 1988,"Cuadro con la imagen de un santo, robado a mi papá, atacado a puñal. 59,5 cm x 44 cm x 4,5 cm. Cartón atacado con puñal. 100 cm x 70 cm","hay una sombra de una persona en una pared junto a una imagen
+hay un bate de cuchillo en una caja clara con una tarjeta
+hay una imagen de una imagen de un árbol
+madera arafeada con muchos agujeros y arañazos en ella
+hay una imagen de un cuadro de una pintura marrón y oro","['espacio interior', 'pared', 'cuerpo herido', 'papel', 'piso']
+['cuerpo herido', 'cuerpo arrastrado', 'cuerpo acostado', 'tejido', 'cuerpo lesionado']
+['pared', 'materia orgánica', 'espacio interior', 'tejido', 'interacción']
+['tela', 'tejido', 'materia orgánica', 'piso', 'mancha']
+['cuerpo herido', 'tela', 'piso', 'pared', 'materia orgánica']"
+51,El valor moral del mugre,1989,"Oxido, metal, huesos y espejo. 41 cm x 27 cm x 14 cm.",hay un tazón con astillas en una caja,"['cuerpo arrastrado', 'cuerpo herido', 'cuerpo humano', 'cadáver', 'cuerpo lesionado']"
+52,Casita de astillas,1989,Astillas de hueso humano y adhesivo,hay una pequeña casa hecha de astillas en una mesa,"['cuerpo arrastrado', 'cuerpo sentado', 'cuerpo herido', 'cuerpo de pie', 'cabeza']"
+53,Caribe,1989 - 1992,Objeto construido con desechos de atentado terrorista y jarra.,hay un jarrón de vidrio roto sentado sobre una mesa,"['pared', 'plástico', 'líquido', 'cuerpo herido', 'tejido']"
+54,Tete,1990,"Frottage hecho con grafito sobre un pañal directamente en donde duermen los niños de la calle en Cali, Colombia. 77 cm x 47 cm.","un primer plano de una imagen en blanco y negro de un jarrón
+hay un dibujo de un jarrón con una flor en él","['cuerpo herido', 'herida', 'tela', 'cuerpo lesionado', 'cuerpo arrastrado']
+['cuerpo herido', 'herida', 'cuerpo arrastrado', 'cuerpo humano', 'mano']"
+55,Alcalde popular,1991,"Instalación. Cuatro o cinco piezas hechas en metal, cuero, caucho y algodón encontradas, hechas y exhibidas en la calle.","varios pares de zapatos colgados en la pared en la habitación
+hay un poste con un montón de zapatos en él
+hay muchos pares de zapatos colgados en un poste
+hay cinco pares de zapatos colgados en una pared con un mango rojo
+hay un poste con un montón de zapatos en él
+hay muchos pares de zapatos colgados en un poste
+hay muchos pares de zapatos colgados en un poste","['pared', 'grupo de personas', 'tejido', 'cuerpo transportado', 'hombre']
+['cuerpo transportado', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo de pie', 'pared']
+['pared', 'tejido', 'persona', 'cuerpo humano', 'cuerpo arrastrado']
+['pared', 'cuerpo herido', 'espacio interior', 'tejido', 'grupo de personas']
+['pared', 'cuerpo arrastrado', 'grupo de personas', 'cuerpo transportado', 'habitación']
+['pared', 'cuerpo transportado', 'pies', 'espacio interior', 'persona']
+['pared', 'cuerpo herido', 'cuerpo arrastrado', 'pies', 'cuerpo transportado']"
+56,Arru – rrú,1991 - 1995,"Instalación hecha con metal, papel madera, caucho, humo, escayola, acrílico, algodón y mugre.",hay una habitación sucia con un carro y un cubo de basura,"['cuerpo herido', 'mancha de sangre', 'habitación vacía', 'cuerpo abandonado', 'cuerpo abandonado']"
+57,"Puñal, pañal",1996 - 2000,"Dibujo hecho a puñal sobre una de las paredes de la casa de mis padres (Q.E.P.D.), Villa Colombia (Cali). Dimensiones: 340 cm x 240 cm x 2.5 cm",pintura de un hombre montando un caballo con una gran cantidad de pintura en él,"['materia orgánica', 'cuerpo lesionado', 'herida', 'cuerpo herido', 'piso']"
+58,Ana María,1984 - 2000,Vendas autoadhesivas y zapaticos de niña encontrados en lo que quedó de una masacre al norte del departamento del Cauca en Colombia.,hay un par de zapatos que están hechos de arcilla,"['cuerpo herido', 'cuerpo lesionado', 'mano', 'cuerpo arrastrado', 'manos']"
+59,Villa pum-pum,1997,"Instalación hecha con cúmulos de hojas de higuerilla, recogidas en lugares marginales de Caracas, Venezuela",hay muchas hierbas colgando en la pared en una habitación,"['pared', 'materia orgánica', 'espacio interior', 'cuerpo arrastrado', 'espacio urbano']"
+60,Oro,2012,Virutas de hueso humano sobre botas militares,hay un par de zapatos que están en una mesa,"['suciedad', 'barro', 'pies', 'materia orgánica', 'piso']"
+61,Payé (El coche de Tomás),2016,Coche para bebé curado con venditas autoadhesivas.,"hay una escultura de un cochecito de bebé de madera
+hay una silla de bebé hecha de madera con un asiento en ella","['cuerpo arrastrado', 'cuerpo transportado', 'cuerpo herido', 'espacio urbano', 'cuerpo sentado']
+['tejido', 'tela', 'cuerpo arrastrado', 'cuerpo envuelto', 'espacio interior']"
+62,Pijao (Maloca),2013,Maloca hecha con lodo y basura anudada con metal,hay una pequeña casa hecha de un pedazo de cartón,"['suciedad', 'barro', 'papel', 'espacio urbano', 'materia orgánica']"
+63,Banderas Sucias. (Versión Bogotá).,2004 - 2015,"Papeles muy sucios recogidos de lugares marginales de Jamundí, tratados como banderas y colgados de cuerdas de acero con ganchitos metálicos.","pared arafed de ropa vieja colgando en una pared en una habitación
+hay muchos pedazos de papel colgando del techo","['tejido', 'tela', 'espacio interior', 'pared', 'plástico']
+['papel', 'pared', 'espacio interior', 'cuerpo herido', 'espacio público']"
+64,Emberá - Chamí,2008,"Astillas de hueso humano, botas pantaneras Venus y bombillo de poco voltaje.","hay dos pares de botas negras con picos en ellas
+hay una pequeña escultura en una habitación con una luz que brilla sobre ella
+hay una pequeña pantalla de artículos en una caja de vidrio","['cuerpo arrastrado', 'pared', 'cuerpo de pie', 'materia orgánica', 'cuerpo transportado']
+['espacio interior', 'habitación vacía', 'habitación', 'cuerpo de pie', 'espacio urbano']
+['espacio interior', 'cuerpo de pie', 'cuerpo herido', 'pared', 'cuerpo humano']"
+65,Inhumano,2008,"Proyecto de excavación para realizarse contiguo al Museo de Arte Moderno. Dimensiones: 3x3x3 ms. Los precedentes formales de esta sepultura para personas vivas, están localizados en la relectura y recontextualización de intervenciones terráqueas ancestrales muy colombianas como Tierradentro y San Agustín bajo otras condiciones socioeconómicas políticas y culturales. También el proyecto cámara neumática especie de un gran pulmón subterráneo alimentado con aire desde el exterior a través de mangueras y que fue exhibido en 1981 durante el Salón Atenas en el Museo Nacional de Bogotá. En la construcción de esta escultura es muy importante el trabajo voluntario de quienes la cavan, exhumando de las entrañas de la tierra y con manos de seda, una cama - tumba, la mesa – cubo, la silla y la cloaca, señalando con ello una práctica de sepultura familiar ritual no forzada, utilizada en muchas culturas precolombinas. Inhumano es un pequeño, tierno, esencial y marginal infierno con las mínimas cosas, hecho de material efímero y en donde toda pertenencia esta disuelta en el tiempo de antemano. La cama - tumba, la mesa – cubo, la silla y la cloaca brotan de una tierra deleznable y ubérrima. El tronco de madera, instalado en una de las esquinas con muescas o estribos tallados, funciona como conexión y elemento de descenso para el público que lo utilizará descalzándose como condición.","zona de arafed con un bloque de piedra y un pequeño pedazo de ladrillo
+zona arafeada con un muro de piedra y un muro de ladrillo
+Hay un hombre tirado en el suelo con un bate de béisbol.
+dos hombres están trabajando en una trinchera con una pala y una pala
+Hay dos hombres trabajando en una trinchera con palas
+hay una gran roca sentada en medio de un campo de tierra
+hay dos bancos de piedra en una zona de suciedad con una pared
+hay dos bancos de piedra en medio de una zona de suciedad
+dos hombres están de pie en una trinchera con un tronco
+bocetos de un árbol y una casa sobre un pedazo de papel
+hay una imagen de un agujero cuadrado con un pequeño cuadrado en él
+hay una cerca que está al lado de un árbol en un parque
+hay una cometa que está volando en el aire en la hierba
+dibujo del ciervo con la rama en la boca
+dibujo de la casa con la escalera y la ventana con el alféizar de la ventana
+Hay una excavadora cavando un agujero en el suelo.
+tres hombres están trabajando en un árbol en un campo
+zona de arafed con un agujero en el suelo con un bloque de ladrillos","['pared', 'piso', 'cuerpo en el suelo', 'tierra', 'espacio interior']
+['pared', 'piso', 'cuerpo en el suelo', 'cuerpo de pie', 'tierra']
+['cuerpo en el suelo', 'cuerpo acostado', 'cadáver', 'cadáver', 'cuerpo abandonado']
+['grupo de personas', 'materia orgánica', 'pared', 'cuerpo en el suelo', 'interacción']
+['materia orgánica', 'pared', 'tierra', 'barro', 'cuerpo en el suelo']
+['pared', 'barro', 'materia orgánica', 'suciedad', 'cuerpo arrastrado']
+['pared', 'barro', 'tierra', 'suciedad', 'materia orgánica']
+['pared', 'piso', 'espacio interior', 'tierra', 'barro']
+['materia orgánica', 'pared', 'cuerpo arrastrado', 'cuerpo herido', 'tierra']
+['papel', 'espacio público', 'espacio interior', 'interacción', 'cuerpo de pie']
+['pared', 'piso', 'espacio interior', 'tierra', 'espacio público']
+['espacio público', 'espacio urbano', 'tierra', 'calle', 'pared']
+['tierra', 'pared', 'espacio público', 'materia orgánica', 'cuerpo en el suelo']
+['cuerpo arrastrado', 'cuerpo de pie', 'cuerpo humano', 'cuerpo inmóvil', 'cuerpo transportado']
+['cuerpo de pie', 'cuerpo arrastrado', 'papel', 'pared', 'tela']
+['materia orgánica', 'tierra', 'suciedad', 'pared', 'espacio público']
+['tierra', 'materia orgánica', 'barro', 'cuerpo lesionado', 'suciedad']
+['tierra', 'pared', 'cuerpo en el suelo', 'materia orgánica', 'piso']"
+66,Dibujo Textual,2023,Impresión digital en plastilona instalada en la fachada del MAMBO. 16 metros x 5 metros. Apróx.,hay una portada de libro rojo con un título blanco en ella,"['papel', 'pared', 'piso', 'habitación', 'persona']"
+67,El niño de la casa,2020,"Impresión múltiple, Diario El Tiempo","foto arafed de un joven de pie en un campo
+dibujo de un niño en una corbata y camisa de pie en un campo
+hay un dibujo blanco y negro de un hombre con corbata","['cuerpo de pie', 'tela', 'cuerpo transportado', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo de pie', 'persona', 'cuerpo arrastrado', 'tela', 'cuerpo inmóvil']
+['materia orgánica', 'cadáver', 'persona', 'pared', 'sangre']"
+68,Chinchorro,2013,Basura anudada con alambre y retazos de tela de algodón en forma de chinchorro levitando e iluminado con bombillo de poco voltaje.,"hay un plato de comida que se ha cocinado en la estufa
+hay una hamaca con la sombra de una persona en ella","['cuerpo herido', 'cuerpo lesionado', 'espacio interior', 'cuerpo arrastrado', 'cabeza']
+['espacio interior', 'tejido', 'cuerpo arrastrado', 'cuerpo herido', 'tela']"
+69,Venus Escolar (Múltiple),2012 - 2014,"Bota cortada con instrumento quirúrgico.
+",hay un par de botas negras de lluvia con suelas amarillas,"['barro', 'suciedad', 'pies', 'plástico', 'lesión']"
+70,Sudor - Pantalón,2014,Pantalón teñido en lodo y colgado de una astilla de madera empotrada a la pared.,hay una toalla marrón colgando en una línea de ropa,"['tela', 'cuerpo herido', 'cuerpo de pie', 'cuerpo arrastrado', 'tejido']"
+71,Colcha de mugre,2015,"Espacio interior de la Galería Casas - Riegner, cubierto con costales plásticos impregnados de sudor y tierra, recogidos en la plaza de mercado Santa Helena de Cali.",hay una habitación con una pared de piedra y un piso,"['espacio interior', 'pared', 'piso', 'espacio público', 'espacio urbano']"
+72,Puñado de tierra,2018,"Cuatro paredes de un espacio interior muy iluminado cubierto por 600 bolsas de plástico reciclado, marcadas con lápiz grafito con el nombre y apellido de personas muy pobres de mi familia (especie de árbol, genealógico). Cada una de las bolsas marcadas va colgada de una puntilla y lleva en su interior un puñado de tierra. La cantidad de bolsas varía dependiendo de las dimensiones del lugar.","hay muchas bolsas colgando en la pared de una habitación
+hay una habitación con una pared de papeles y una hidrante de fuego rojo","['pared', 'tejido', 'espacio interior', 'tela', 'habitación']
+['espacio interior', 'pared', 'habitación', 'habitación vacía', 'tejido']"
+73,In memoriam Carlos Rojas González,2015,"Libro atacado con hacha. 31,5 cm x 61,3 cm x 16 cm.","hay una foto de un hombre que está en un libro
+hay un libro con una foto de un hombre roto","['papel', 'cuerpo herido', 'basura', 'plástico', 'cuerpo abandonado']
+['papel', 'materia orgánica', 'cuerpo herido', 'basura', 'plástico']"
+74,Oro y mugre,2016,Esmalte sobre cartón usado como cama por un indigente.,un primer plano de un pedazo de papel con una raya marrón,"['cuerpo herido', 'pared', 'papel', 'tela', 'piso']"
+75,Libretas de apuntes,"2016 - 2020
+","Libretas atacadas con hacha. 17,5 cm x 12 cm x 6 cm. Esparadrapo sobre papel. 27,5 cm x 21 cm x 3 cm. Lápiz sobre banda de esparadrapo 27,5 cm x 21 cm. Tinta sobre papel 27,5 cm x 21 cm","alguien está dibujando un puño con un lápiz en un cuaderno
+hay un libro rojo con un dibujo de un hombre en él
+hay un dibujo de una hoja verde en un cuaderno amarillo
+dibujo de un hombre con el pelo largo y la barba
+hay un dibujo de un pájaro en un libro con un lápiz
+hay un pequeño libro con una imagen de una luna dentro
+cuatro libros abiertos con un montón de arena en ellos
+hay dos cuadernos con un bloc de notas en la parte superior de ellos
+hay un libro con un pedazo de papel pegado a él
+hay un dibujo de un vestido en un libro con una cuerda roja
+un primer plano de un libro con un trozo de cinta adhesiva
+Hay un libro con un montón de papeles encima.
+hay un dibujo de la camisa de un hombre y herramientas en un libro
+hay un libro con una cruz en él y un pedazo de papel pegado a él","['mano', 'manos', 'cuerpo de pie', 'cuerpo herido', 'cuerpo transportado']
+['mancha de sangre', 'sangrado del cuerpo', 'cuerpo herido', 'papel', 'tejido']
+['interacción', 'tejido', 'tela', 'papel', 'herida']
+['persona', 'cuerpo arrastrado', 'cadáver', 'mujer', 'cuerpo inmóvil']
+['cuerpo arrastrado', 'cuerpo herido', 'cuerpo transportado', 'interacción', 'tela']
+['cuerpo herido', 'herida', 'papel', 'espacio interior', 'materia orgánica']
+['papel', 'materia orgánica', 'tejido', 'pared', 'tela']
+['papel', 'materia orgánica', 'tejido', 'tela', 'pared']
+['papel', 'cuerpo herido', 'tela', 'tejido', 'cuerpo lesionado']
+['papel', 'cuerpo de pie', 'cuerpo herido', 'cuerpo arrastrado', 'tela']
+['tejido', 'tela', 'papel', 'cuerpo herido', 'cuerpo transportado']
+['papel', 'materia orgánica', 'tejido', 'cuerpo herido', 'cuerpo humano']
+['tela', 'espacio interior', 'cuerpo transportado', 'interacción', 'cuerpo arrastrado']
+['papel', 'cuerpo herido', 'mancha de sangre', 'cuerpo lesionado', 'tela']"
+76,Lección moral,2018,Acrílico sobre valla de plastilona. 700 cm x 200 cm. apróx.,"hay una gran pintura en el lado de un edificio
+hay una pintura en blanco y negro de una mujer sentada en una silla","['espacio urbano', 'espacio público', 'pared', 'calle', 'tierra']
+['tela', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo sentado', 'cuerpo transportado']"
+77,Aprendices de chicos malos,2019,12 camisas para niño señaladas cada una de ellas con diferentes oficios oscuros que en nuestro país producen terror. Escritas con grafito.,"pared arafed con la ropa que cuelga en un perchero en una habitación
+camisa arafed con la palabra cesar en ella colgando en un tendedero","['tela', 'pared', 'cuerpo humano', 'habitación vacía', 'mancha de sangre']
+['tela', 'plástico', 'tejido', 'mancha de sangre', 'cadáver']"
+78,Flor de borrachero,2020,"Acrílico y óleo pastel sobre vidrio. 1,39 m x 86,4 cm x 4 mm.",tinte de corbata púrpura y negro en una bufanda púrpura en una superficie blanca,"['pared', 'tela', 'tejido', 'cuerpo herido', 'cuerpo envuelto']"
+79,Clozapina Calima,2020,Empaques de medicina usada y alambre. 27 cm x 27 cm x 4 cm.,hay un collar blanco hecho de tenedores y cucharas en una superficie negra,"['tejido', 'plástico', 'cuerpo envuelto', 'papel', 'tela']"
+80,Clozapina Yotoco,2020,"Empaques de medicina usada y alambre. 17 cm x 17 cm x 3,5 cm.",hay un adorno de plata con un diseño circular en él,"['plástico', 'tejido', 'cabeza', 'cuerpo envuelto', 'tela']"
+81,Nube gris,2006,"Dibujo - intervención realizada con puñal, motosierra, grafito y oxido de hierro negro sobre una de las paredes del museo Jacobo Borges en Caracas, Venezuela,durante mi Antología,  ""Hojas de vida"", junto a Goya y Revero'n.","hay una gran pintura en la pared de un edificio
+hay un dibujo de la cabeza de un gato en una pared
+fotografía arafeada de un tronco de árbol con un paraguas roto
+hay un dibujo de la cabeza de un gato en una pared
+imagen arafed de un paraguas roto con un fondo borroso
+hay una gran pintura en la pared de un edificio","['espacio interior', 'cuerpo herido', 'espacio urbano', 'piso', 'pared']
+['herida', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo inmóvil', 'mancha']
+['herida', 'cuerpo herido', 'materia orgánica', 'cuerpo arrastrado', 'cuerpo inmóvil']
+['herida', 'cuerpo arrastrado', 'cuerpo inmóvil', 'mancha', 'cuerpo herido']
+['herida', 'tela', 'cuerpo herido', 'materia orgánica', 'tejido']
+['cuerpo herido', 'espacio interior', 'cuerpo arrastrado', 'cuerpo inmóvil', 'pared']"
+82,Crisis,1977,"Crayón sobre papel. 62,5 cm x 51,8 cm.",arafed dibujo de un hombre con un sombrero y una corbata,"['cuerpo herido', 'cuerpo arrastrado', 'mujer', 'persona', 'herida']"
+83,Lucy,1978,Acrílico sobre papel. 74 cm x 38 cm.,arafed dibujo de una mujer con el pelo largo y un sombrero,"['cuerpo arrastrado', 'cuerpo herido', 'cuerpo humano', 'cuerpo de pie', 'mujer']"
+84,Las sillas de Anacleto,1979,Ropa impregnada en acrílico sobre papel. 100 cm x 70 cm.,"hay una pintura rosa en un papel marrón con una silla
+silla arafed con una pintura negra en ella sentado en la pared","['cuerpo herido', 'cuerpo arrastrado', 'materia orgánica', 'papel', 'tejido']
+['tela', 'cuerpo arrastrado', 'mancha', 'tejido', 'cadáver']"
+85,Tolima,1983,"Lápiz sobre fotocopia 28 cm x 21,5 cm",mapa arafed de los estados unidos con un cuadrado negro en el medio,"['papel', 'tela', 'tierra', 'espacio interior', 'piso']"
+86,Calima,1984,"Acrílico sobre papel. 70 cm x 49,5 cm cada uno.","arafed dibujo en blanco y negro de un hombre con un cigarrillo
+pintura de una mujer con un sombrero negro y un fondo blanco
+un primer plano de un dibujo en blanco y negro de un niño
+un primer plano de un dibujo blanco y negro de una mujer","['mujer', 'persona', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo transportado']
+['persona', 'cadáver', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo inmóvil']
+['persona', 'mujer', 'cuerpo arrastrado', 'cuerpo inmóvil', 'mancha']
+['cuerpo arrastrado', 'persona', 'mujer', 'cuerpo herido', 'cadáver']"
+87,Sueño plata,1995,"Frottage hecho con grafito y esmalte en un pañal directamente sobre el andén en donde duermen los niños de la calle en Cali, Colombia. 72 cm x 58 cm.",un primer plano de una obra de arte con un árbol en ella,"['tela', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo transportado', 'materia orgánica']"
+88,Teresa Gómez,1990,"Esmalte sobre papel. 50 cm x 35 cm, 100 cm x 70 cm y 100 cm x 70 cm.","pintura de un bosque rojo con un árbol blanco en el medio
+arafed imagen de una tinta roja salpicada en un papel blanco
+hay una pintura de tinta roja en un papel blanco con una mancha roja","['mancha de sangre', 'sangrado del cuerpo', 'pared', 'cuerpo herido', 'mancha']
+['mancha de sangre', 'sangrado del cuerpo', 'cuerpo herido', 'mancha', 'sangre']
+['mancha de sangre', 'cuerpo herido', 'sangrado del cuerpo', 'mancha', 'cuerpo arrastrado']"
+89,Retrato anónimo,1998,Carbón sobre papel. 100 cm x 70 cm.,un primer plano de un dibujo de una persona con el pelo negro,"['persona', 'cuerpo herido', 'cuerpo arrastrado', 'cuerpo inmóvil', 'cabeza']"
+90,Mugre recogido sobre cartón,1998,Mugre de indigente frotado sobre cartón. 70 cm x 50 cm cada uno.,"hay una pintura marrón con un plano en medio de ella
+hay un dibujo del árbol en medio del campo
+imagen arafed de una pintura en blanco y negro de una persona
+dibujo arafed del cuadro blanco y negro del árbol
+hay un dibujo de una imagen en blanco y negro de una montaña
+arafed imagen de un dibujo en blanco y negro de una espiral
+dibujo arafed de una imagen en blanco y negro de un gato negro","['cuerpo herido', 'cuerpo arrastrado', 'tela', 'herida', 'mancha de sangre']
+['mancha de sangre', 'mancha', 'piso', 'cuerpo arrastrado', 'cuerpo herido']
+['cuerpo herido', 'tierra', 'piso', 'barro', 'mancha de sangre']
+['tela', 'materia orgánica', 'cuerpo arrastrado', 'tejido', 'mancha']
+['tela', 'mancha de sangre', 'herida', 'materia orgánica', 'cuerpo herido']
+['tela', 'barro', 'pared', 'herida', 'cuerpo herido']
+['tela', 'tejido', 'cuerpo arrastrado', 'herida', 'materia orgánica']"
+91,Coche de bebé,1999,Dibujo hecho con grafito sobre papel recogido del suelo en donde una madre desplazada y viuda trabaja de manera informal vendiendo dulces en el mismo coche en donde resguarda a su bebé.,hay un dibujo de una bicicleta con un asiento y un manillar,"['cuerpo herido', 'papel', 'piso', 'pared', 'cuerpo arrastrado']"
+92,Bebé,2000,Dibujo hecho con vellos púbicos y axilares sobre papel carta.,un primer plano de un dibujo de la cabeza de una persona con el pelo,"['cabeza', 'cuerpo humano', 'persona', 'cuerpo inmóvil', 'cuerpo herido']"
+93,Dibujos privados,1995- 2001,"Ciento cuatro dibujos hechos con grafito sobre papel tamaño carta, encontrándome con los ojos vendados.","hay una imagen en blanco y negro de una pared con un montón de plantas diferentes
+hay una imagen de una imagen en blanco y negro de una pared
+dos fotografías en blanco y negro de una pared con una serie de patrones diferentes","['tela', 'materia orgánica', 'tejido', 'pared', 'cuerpo arrastrado']
+['pared', 'tejido', 'materia orgánica', 'tela', 'papel']
+['tejido', 'pared', 'plástico', 'espacio interior', 'materia orgánica']"
+94,Cuarto imantado,"1999 - 2001
+","Grafito, mugre y óleo pastel sobre papel. 28 cm x 21,8 cm",pintura de una ciudad con muchos edificios y un cielo,"['cuerpo herido', 'espacio urbano', 'papel', 'tela', 'espacio interior']"
+95,Dibujo Sucio,1999 - 2003,"Mugre, sudor y excremento de indigente sobre lona. 244 x 360 cms. Aprox.","pintura de un barco con una vela en ella en una habitación
+hay dos fotos de los pies de un perro con una nariz larga
+pintura de una gran obra de arte en una pared en una habitación
+tres pinturas en una pared en una habitación con una luz
+hay una gran pintura en la pared en una habitación
+hay una señal en la pared que dice est dios fuetos hechos contorcion
+pintura de un caballo marrón en un campo con el fondo del cielo
+pintura de una pintura marrón y blanco con un borde negro
+hay un dibujo de una obra de arte en una pared
+hay dos cuadros de una pintura con pintura en blanco y negro","['cuerpo arrastrado', 'cuerpo inmóvil', 'cuerpo herido', 'interacción', 'habitación vacía']
+['herida', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo humano', 'lesión']
+['cuerpo herido', 'cuerpo arrastrado', 'piso', 'espacio interior', 'tela']
+['espacio interior', 'tejido', 'espacio urbano', 'piso', 'materia orgánica']
+['espacio interior', 'piso', 'habitación vacía', 'espacio urbano', 'habitación']
+['cuerpo humano', 'tejido', 'persona', 'espacio interior', 'cuerpo arrastrado']
+['cuerpo arrastrado', 'tela', 'mancha', 'cuerpo herido', 'mancha de sangre']
+['cuerpo herido', 'cuerpo arrastrado', 'cuerpo en el suelo', 'piso', 'mancha']
+['cuerpo arrastrado', 'cuerpo herido', 'materia orgánica', 'interacción', 'espacio interior']
+['tela', 'tejido', 'cuerpo arrastrado', 'materia orgánica', 'cuerpo herido']"
+96,Awá,1999 - 2000,Grafito sobre fundas de algodón. 70 cm x 50 cm cada una.,tres pedazos de tela con el dibujo del plano sobre ellos,"['tela', 'papel', 'tejido', 'cuerpo herido', 'pared']"
+97,Los zapaticos de Ana María,2005 - 2006,Acrílico sobre papel. 100 cm x 70 cm.,hay un dibujo de dos hombres con barba y un sombrero,"['persona', 'cuerpo herido', 'grupo de personas', 'barro', 'cuerpo arrastrado']"
+98,Cepillo,2006 - 2006,"Grafito sobre papel.
+100 cm x 70 cm.",hay una foto en blanco y negro de una planta con un tallo largo,"['cuerpo arrastrado', 'cabeza', 'pared', 'herida', 'tierra']"
+99,Peineta,2007 - 2006,"Grafito sobre papel.
+100 cm x 70 cm.",hay un cepillo negro con un mango negro largo,"['cuerpo arrastrado', 'pared', 'herida', 'tela', 'cuerpo herido']"
+100,El niño de la casa,2011,"Grafito e instrumento quirúrgico sobre papel.
+24 cm x 17 cm.",un primer plano de un dibujo de un niño con corbata,"['papel', 'tela', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo transportado']"
+101,Niña de san Agustín,2011,"Grafito e instrumento quirúrgico sobre papel.
+24 cm x 17 cm.",un dibujo de un hombre con una cara en un pedazo de papel,"['papel', 'tela', 'persona', 'cuerpo arrastrado', 'hombre']"
+102,Silvia,2011 - 2012,"Grafito a manera de puñal sobre papel.
+100 cm x 70 cm.",dibujo de una chica en un vestido de pie en un suelo de baldosas,"['mancha', 'cuerpo arrastrado', 'piso', 'cuerpo de pie', 'cuerpo en el suelo']"
+103,El Niño de la Casa,2012 - 2012,"Grafito a manera de puñal sobre papel.
+100 cm x 70 cm.",un primer plano de un dibujo de un niño con corbata,"['papel', 'tela', 'cuerpo abandonado', 'cuerpo abandonado', 'cuerpo transportado']"
+104,El Tablón en Rojo 2,2013 - 2012,"Este dibujo- frottage tiene un cordón umbilical terráqueo que hace parte de un gran proyecto estético conectando lo ancestral y lo contemporáneo, excavando la realidad desde el poder de lo marginal consignado en diferentes tratamientos y maneras de atacar e imantar los soportes in situ, señalando la muerte como una amenaza irreversible y a la memoria como una condición exhumadora. En esta acción sobre lona reconstruyo mitos colectivos precolombinos, además, de situaciones de riesgo que son resueltas a manera de performances secretos u operativos políticos. De esta manera consigo en tiempo- espacio real, desafiar y exorcizar la historia de un sitio arqueológico de nuestro país: el Tablón en San Agustín Huila. 190 cm x 244 cm.","alguien está pintando un gran pedazo de papel con pintura roja
+alguien está pintando una gran señal roja y blanca en una pared
+tela arafed cubierta de sangre sentada en una cubierta de madera","['sangrado del cuerpo', 'mancha', 'cuerpo envuelto', 'cadáver', 'cadáver']
+['sangrado del cuerpo', 'mancha', 'sangre', 'mancha de sangre', 'cadáver']
+['sangrado del cuerpo', 'cuerpo cubierto', 'mancha', 'tela', 'cuerpo envuelto']"
+105,Tablón Mujer (II),2014 - 2012,"Frottage hecho con óxido de
+hierro negro sobre tela.
+190 cm x 244 cm.","hombre arafed mirando una pared con un dibujo en ella
+alguien está dibujando un dibujo en un pedazo de papel con un cepillo pequeño
+hombre arafed dibujando un cuadro en un gran pedazo de papel
+hombre arafed en camisa blanca pintando un objeto blanco grande
+un primer plano de una pintura en blanco y negro en una pared
+dibujo arafed de un hombre con una calavera en una pared
+hay un dibujo blanco y negro de un hombre en una pared
+hombre arafed en camisa roja sosteniendo un secador de pelo en una habitación
+hombre arafed en camisa roja pintando un cuadro en una pared
+hombre arafed en camisa roja pintando un objeto blanco grande con pintura negra
+hombre arafed en una camisa roja está pintando un objeto blanco grande
+hay un hombre que está pintando en un pedazo de papel
+alguien está dibujando un cuadro de un hombre con un cuchillo","['mancha', 'cuerpo humano', 'mancha de sangre', 'piel', 'materia orgánica']
+['mancha', 'manos', 'mano', 'mancha de sangre', 'interacción']
+['cuerpo humano', 'cuerpo de pie', 'manos', 'interacción', 'cadáver']
+['cuerpo humano', 'interacción', 'manos', 'mancha', 'mano']
+['tela', 'tejido', 'papel', 'cuerpo arrastrado', 'cuerpo envuelto']
+['cuerpo arrastrado', 'tela', 'cuerpo herido', 'cadáver', 'cuerpo inmóvil']
+['tela', 'cuerpo arrastrado', 'papel', 'cuerpo humano', 'cuerpo envuelto']
+['cuerpo cubierto', 'cadáver', 'cuerpo de pie', 'tela', 'cadáver']
+['mancha', 'cadáver', 'tela', 'persona', 'sangrado del cuerpo']
+['cuerpo cubierto', 'cuerpo envuelto', 'tela', 'cuerpo acostado', 'cuerpo sentado']
+['tela', 'mancha', 'cuerpo cubierto', 'tejido', 'cuerpo envuelto']
+['materia orgánica', 'tierra', 'cuerpo lesionado', 'cuerpo abandonado', 'cuerpo abandonado']
+['cuerpo arrastrado', 'cuerpo herido', 'cuerpo cubierto', 'tela', 'cuerpo en el suelo']"
+106,Mapas Rotos,2014,"Dibujo hecho en papel atacado con puñal.
+139 cm x 100 cm.
+Dibujo hecho en papel atacado con puñal.
+139 cm x 100 cm.
+Papel lacerado con instrumento quirúrgico.
+139 cm x 100 cm - 100 cm x 70 cm.","hay una imagen de un mapa de América del Sur
+hay un pedazo de papel blanco con pintura negra en él
+hay una imagen de una imagen de una pared blanca
+arafed imagen blanca de un pedazo de papel con un mapa del país de América del Sur
+hay un pastel blanco esmerilado con una flor en él
+un primer plano de un pedazo de papel con un diseño blanco y negro
+pintura blanca arafed en la pared con una línea negra
+hay una pintura blanca que se está despegando de una pared","['pared', 'papel', 'piso', 'espacio interior', 'persona']
+['papel', 'pared', 'piso', 'tejido', 'tela']
+['pared', 'papel', 'espacio interior', 'cuerpo herido', 'materia orgánica']
+['pared', 'papel', 'suciedad', 'barro', 'materia orgánica']
+['papel', 'pared', 'cuerpo herido', 'materia orgánica', 'tejido']
+['papel', 'pared', 'tejido', 'tela', 'mancha de sangre']
+['pared', 'papel', 'piso', 'cuerpo herido', 'herida']
+['pared', 'barro', 'papel', 'materia orgánica', 'piso']"
+107,Limpiándome los dedos,2016,"Témpera y tinta sobre papel.
+125 cm x 179 cm.",arafed dibujo en blanco y negro de un hombre y una mujer,"['cuerpo herido', 'cuerpo arrastrado', 'tela', 'materia orgánica', 'tejido']"
+108,Lideresa social,2016,"Témpera sobre papel.
+125 cm x 90 cm. cada una.","dibujo arafed de una mujer con una corona en la cabeza
+hay un dibujo blanco y negro de la cara de una mujer","['mujer', 'cabeza', 'persona', 'cuerpo arrastrado', 'cuerpo inmóvil']
+['mujer', 'cuerpo arrastrado', 'cabeza', 'persona', 'cuerpo inmóvil']"
+109,Antártica,2016,"Collage
+88 cm x 88 cm",hay un mapa en un pedazo de cartón en la pared,"['cuerpo herido', 'papel', 'piso', 'herida', 'tejido']"
+110,El cuarto en astillas,2017,"Grafito sobre papel.
+35 cm x 50 cm.",dibujo arafed de un edificio con una torre de reloj en el fondo,"['calle', 'multitud', 'espacio urbano', 'espacio público', 'pared']"
+111,Pañuelo blanco y negro,2017,"Esquirlas de plástico sobre algodón.
+41,5 cm x 41,5 cm.",hay un paño blanco con un coche negro y un banco negro,"['tela', 'cuerpo acostado', 'tejido', 'cuerpo transportado', 'cuerpo herido']"
+112,NY Times.,2016 – 2018,"Periódicos tratados con instrumento quirúrgico.
+30 cm x 40 cm los tres primeros - 60 cm x 32 cm el cuarto.","un primer plano de un montón de periódico con tijeras y un clip de periódico
+un primer plano de un montón de periódico con tijeras en él","['plástico', 'papel', 'tejido', 'basura', 'materia orgánica']
+['papel', 'materia orgánica', 'pared', 'tejido', 'plástico']"
+113,Le figaro - le monde,2018,"Periódicos borrados con gasa húmeda.
+24 cm x 32 cm.",dos páginas de viejo periódico con una foto de un barco y un barco,"['papel', 'pared', 'tejido', 'tela', 'espacio interior']"
+114,Europa,2018,"Gasa húmeda frotada sobre mapa.
+39,3 cm x 54 cm.",hay un libro con un mapa de Europa en él,"['papel', 'tejido', 'tela', 'materia orgánica', 'tierra']"
+115,El ártico,2018,"Gasa húmeda frotada sobre mapa.
+39,3 cm x 27 cm.",un primer plano de un mapa del ártico con mucha nieve,"['papel', 'tierra', 'piso', 'pared', 'tela']"
+116,México y América central,2018,"Gasa húmeda frotada sobre mapa.
+39,3 cm x 54 cm.",hay un mapa de México y América Central en la pared,"['mancha de sangre', 'papel', 'materia orgánica', 'cuerpo herido', 'herida']"
+117,Pana – Proyecto costal,2018 - 2019,"35 piezas, aprox.
+Ropa ungida en acrílico y golpeada contra el papel.
+100 cm x 70 cm. cada uno.","arafed imagen de un par de pantalones con un fondo blanco y negro
+hay un dibujo blanco y negro de la pierna de un caballo","['cuerpo arrastrado', 'mancha', 'cuerpo herido', 'mancha de sangre', 'cadáver']
+['cuerpo arrastrado', 'cuerpo herido', 'cuerpo en el suelo', 'cadáver', 'cadáver']"
+118,Pintura robada,1997 - 2003.,"Pared sucia de un lugar marginal de Cali, recogida con plástico autoadhesivo y adherida luego a una de las paredes del lugar de exhibición.
+215 cm x 300 cm","hay una pared azul y blanca con un pájaro en ella
+graffiti en la pared de un cuarto de baño con un inodoro y un cubo de basura
+graffiti en la pared de un baño con una pared azul y una escritura marrón
+hay un dibujo del banco y un cuenco sobre la mesa","['pared', 'piso', 'tela', 'tierra', 'tejido']
+['habitación', 'habitación vacía', 'pared', 'espacio interior', 'espacio urbano']
+['pared', 'espacio interior', 'materia orgánica', 'habitación vacía', 'cuerpo abandonado']
+['tejido', 'papel', 'herida', 'barro', 'materia orgánica']"
+119,Cama,2018 - 2019,"Cama en la que fallecieron sucesivamente mi madre y mi padre, ahora convertida en mesa de trabajo.
+Acrílico sobre lona.",pintura de un vaso de cerveza con un copo de nieve en el fondo,"['mancha', 'espacio interior', 'cuerpo arrastrado', 'cadáver', 'herida']"
+120,Tejedora con gasa,2011 - 2019,"Frottage con carbón y acrílico sobre tela.
+250 cm x 180 cm",hay una pintura en blanco y negro en una pared en una habitación,"['tela', 'cuerpo arrastrado', 'cuerpo inmóvil', 'papel', 'cuerpo envuelto']"
+121,Mapuches,2019 - 2020,Acrílico sobre papel impreso. 39.3 cm x 54 cm,hay una tabla de tiza con una escritura de tiza en ella,"['materia orgánica', 'cuerpo inmóvil', 'pared', 'tejido', 'tela']"
+122,Siona,2020 - 2020,"Acrílico y lápiz sobre papel impreso.
+54 cm x 39,3 cm",arafed mapa de italia con la palabra roma en él,"['pared', 'papel', 'tejido', 'mancha de sangre', 'piso']"
+123,Nukak,2021 - 2020,"Lápiz y acrílico sobre papel impreso.
+39,3 cm x 54 cm.",arafed mapa de alaska con la palabra alaska escrito en él,"['barro', 'materia orgánica', 'papel', 'tela', 'pared']"
+124,Awá Japón,2022 - 2020,"Acrílico y lápiz sobre papel impreso.
+39,3 cm x 27,5 cm",arafed mapa de Japón con un avión volando sobre él,"['pared', 'papel', 'piso', 'tierra', 'tela']"
+125,Chibcha,2023 - 2020,"Acrílico y lápiz sobre papel impreso.
+39,3 cm x 54 cm.",hay una pintura de un niño en una pizarra con la palabra chichida escrita en ella,"['tela', 'tejido', 'espacio interior', 'suciedad', 'tierra']"
+126,Niño ancestral,2019 - 2020,"Témpera sobre papel.
+125 cm x 179 cm.",arafed dibujo blanco y negro de una mujer en un bosque,"['cuerpo herido', 'cuerpo arrastrado', 'tela', 'materia orgánica', 'tejido']"
+127,Niño rojo,2020,"Carbón, acrílico y pigmento rojo sobre papel.
+199 cm x 139 cm","pintura de un hombre de pie frente a una pintura roja y blanca
+pintura de una persona de pie delante de un fondo blanco y rojo
+dibujo arafed de un hombre con una sudadera roja","['mancha de sangre', 'mancha', 'cuerpo herido', 'sangrado del cuerpo', 'cuerpo inmóvil']
+['mancha de sangre', 'cuerpo herido', 'cuerpo en el suelo', 'sangrado del cuerpo', 'mancha']
+['cuerpo herido', 'mancha de sangre', 'sangrado del cuerpo', 'mancha', 'cuerpo arrastrado']"
+128,Niño rojo sentado,2020,"Pigmento rojo sobre papel
+100 cm x 70 cm.","pintura de un hombre de pie frente a una pintura roja y blanca
+pintura de una persona de pie delante de un fondo blanco y rojo
+dibujo arafed de un hombre con una sudadera roja","['mancha de sangre', 'mancha', 'cuerpo herido', 'sangrado del cuerpo', 'cuerpo inmóvil']
+['mancha de sangre', 'cuerpo herido', 'cuerpo en el suelo', 'sangrado del cuerpo', 'mancha']
+['cuerpo herido', 'mancha de sangre', 'sangrado del cuerpo', 'mancha', 'cuerpo arrastrado']"
+129,Mujer Sinú,2020,"Carbón sobre papel.
+41,5 cm x 29,7 cm",dibujo de un hombre con un guante de béisbol y un guante de béisbol,"['cuerpo arrastrado', 'cuerpo herido', 'cuerpo de pie', 'cuerpo transportado', 'persona']"
+130,Hombre Sinú,2020,"Carbón sobre papel.
+41,5 cm x 29,7 cm",dibujo de un hombre sosteniendo a un bebé en sus brazos,"['cuerpo arrastrado', 'cuerpo herido', 'cuerpo de pie', 'cuerpo en el suelo', 'cuerpo humano']"
+131,Niña Sinú,2020,dibujo de un oso con un sombrero y una corbata,"['cuerpo arrastrado', 'cuerpo herido', 'mujer', 'mancha de sangre', 'herida']",
+132,Dibujo RS,2020,"Grafito y borrador sobre papel.
+100 cm x 70 cm",dibujo de un oso con un sombrero y una corbata,"['cuerpo arrastrado', 'cuerpo herido', 'mujer', 'mancha de sangre', 'herida']"
+133,Proyecto para cámara neumática,1980 - 1981,"Tinta sobre papel. Dibujo de un pulmón subterráneo hecho en plástico de 600 metros x 600 m x 2,5 m, inyectado constantemente de aire para poder soportar la cantidad de tierra que está encima de la cámara. Este pulmón esta señalado en el exterior con un dibujo realizado en material bélico en polvo.",dibujo arafed del cuadrado con la rejilla sobre él,"['paper', 'cloth', 'fabric', 'floor', 'interior space']"
+134,Nube gris,2006,"intervención realizada con puñal, motosierra, grafito y oxido de hierro negro sobre una de las paredes del museo Jacobo Borges en Caracas, Venezuela,durante mi Antología,  ""Hojas de vida"", junto a Goya y Revero'n.","hay una gran pintura en la pared de un edificio
+hay un dibujo de la cabeza de un gato en una pared
+fotografía arafeada de un tronco de árbol con un paraguas roto
+hay un dibujo de la cabeza de un gato en una pared
+imagen arafed de un paraguas roto con un fondo borroso
+hay una gran pintura en la pared de un edificio","['espacio interior', 'cuerpo herido', 'espacio urbano', 'piso', 'pared']
+['herida', 'cuerpo arrastrado', 'cuerpo herido', 'cuerpo inmóvil', 'mancha']
+['herida', 'cuerpo herido', 'materia orgánica', 'cuerpo arrastrado', 'cuerpo inmóvil']
+['herida', 'cuerpo arrastrado', 'cuerpo inmóvil', 'mancha', 'cuerpo herido']
+['herida', 'tela', 'cuerpo herido', 'materia orgánica', 'tejido']
+['cuerpo herido', 'espacio interior', 'cuerpo arrastrado', 'cuerpo inmóvil', 'pared']"
+135,Kamentza,1980 - 1982,"Proyecto de performance, para ser ejecutado en un pabellón psiquiátrico. Punciones, hendiduras, rasgados y frotados, hecho con mis dientes repetida y simultáneamente sobre seis maderos, en un estado de convulsiones producidas de manera auxiliar por electro- shocks.",dibujo del dibujo de un hombre en una escalera con un arma,"['cuerpo de pie', 'mano', 'papel', 'cuerpo arrastrado', 'cabeza']"
+136,Situándome,1981 - 1982,"Proyecto de performance con cadáveres humanos. Tinta sobre papel. Dimensiones 28 x 21,6 cm. Sesenta minutos de situación –instalación. 10 minutos de acción corporal Ingresaré idéntico a los difuntos, los cadáveres humanos adultos, estarán desnudos bañados y con anterioridad fijados a la pared con incrustaciones metálicas, los cuerpos quedarán entonces conservando líneas rectas en posiciones oblicuas, horizontales y verticales. Sucesivamente intensifico interrelaciones humanas, escogiendo y rasgando de uno de ellos con mis dientes, fragmentos dibujados de antemano con una cuchilla y localizados en extremidades superiores e inferiores del muerto, suspendiendo luego esos dibujos en piel de una viga de vidrio con agarraderas metálicas fijas a la pared. Adjunto se encontrará una sonda auxiliar, con aire proveniente del exterior. Se supone que cada difunto hechos en piel son mapas anónimos de dolor. debe tener antecedentes sociopolíticos y los dibujos",dibujo de un hombre en una camisa a rayas con un murciélago colgando de una línea,"['cuerpo herido', 'cuerpo arrastrado', 'cuerpo inmóvil', 'espacio interior', 'cuerpo de pie']"
+137,Estructura,1981 - 1982,"Estudio para instalación. Tinta sobre papel. De seis a nueve mangueras ensambladas con envases plásticos reciclados y cargadas de formol, acopladas al piso y a las paredes del lugar.",un primer plano del dibujo de una persona que está de pie sobre un alambre,"['cuerpo herido', 'cuerpo transportado', 'cuerpo humano', 'cuerpo lesionado', 'cuerpo acostado']"
+138,Nicho,1982 - 1983,Estudio para instalación - intervención. (Tinta sobre papel) Hecha con explosivos en un espacio interior.,el dibujo de la habitación con la ventana y el dibujo de la habitación,"['papel', 'tierra', 'espacio interior', 'piso', 'interacción']"
+139,Brazo,2017,Proyecto de escultura pública. Brazo para construir con madera reciclada y clavos. 21 metros de altura x 7 metros de base.,alguien está dibujando un puño con un lápiz en un cuaderno,"['mano', 'manos', 'cuerpo de pie', 'cuerpo humano', 'persona']"
