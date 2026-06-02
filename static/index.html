@@ -6,13 +6,17 @@
 <title>CORPUS / GRAFOS — Rosemberg Sandoval</title>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
+  @font-face { font-family: 'OverusedGrotesk-Book';   src: url('/static/fonts/OverusedGrotesk-Book.otf'); }
+@font-face { font-family: 'OverusedGrotesk-Bold';   src: url('/static/fonts/OverusedGrotesk-Bold.otf'); }
+@font-face { font-family: 'OverusedGrotesk-Light';  src: url('/static/fonts/OverusedGrotesk-Light.otf'); }
+@font-face { font-family: 'OverusedGrotesk-Medium'; src: url('/static/fonts/OverusedGrotesk-Medium.otf'); }
   html, body { width: 100%; height: 100%; overflow: hidden; background: #fff; }
   canvas { display: block; }
   #loading {
     position: fixed; inset: 0; background: #fff;
     display: flex; flex-direction: column;
     align-items: center; justify-content: center;
-    font-family: 'Courier New', monospace; font-size: 13px; color: #000;
+    font-family: 'OverusedGrotesk-Book', monospace; font-size: 13px; color: #000;
     z-index: 100;
   }
   #loading-log {
@@ -135,7 +139,7 @@ new p5(function(p) {
     p.createCanvas(p.windowWidth, p.windowHeight);
     p.smooth();
     p.frameRate(60);
-    p.textFont('Courier New');
+    p.textFont('OverusedGrotesk-Book');
     sepX = (p.width  - MARGEN * 2) / COLS_NODOS;
     sepY = (p.height - MARGEN * 2) / 10;
     lastMutate = p.millis();
@@ -264,7 +268,7 @@ new p5(function(p) {
 
       // Índice
       p.fill(0); p.noStroke();
-      p.textFont('Courier New'); p.textSize(9); p.textStyle(p.BOLD);
+      p.textFont('OverusedGrotesk-Bold'); p.textSize(9); p.textStyle(p.BOLD);
       p.textAlign(p.RIGHT);
       p.text(fmt(n.index), n.x, n.y - 15);
 
@@ -272,7 +276,7 @@ new p5(function(p) {
       const anchoDisp = sepX - 12 - TEXTO_MARGEN;
       if (anchoDisp > 20) {
         p.fill(0);
-        p.textFont('Courier New'); p.textSize(11); p.textStyle(p.BOLD);
+        p.textFont('OverusedGrotesk-Bold'); p.textSize(11); p.textStyle(p.BOLD);
         p.textAlign(p.LEFT);
         p.text(truncarTexto(n.title, anchoDisp), n.x + 12, n.y);
       }
@@ -284,7 +288,7 @@ new p5(function(p) {
 
       // Descripción si está seleccionado
       if (sel && n.desc && n.desc.length > 0) {
-        p.fill(0); p.textFont('Courier New'); p.textSize(11); p.textStyle(p.NORMAL);
+        p.fill(0); p.textFont('OverusedGrotesk-Book'); p.textSize(11); p.textStyle(p.NORMAL);
         p.textAlign(p.LEFT);
         let descAncho = 280;
         let descX = n.x + 6;
@@ -352,7 +356,7 @@ new p5(function(p) {
   function dibujarHUD() {
     const pad = 30;
     p.fill(0); p.noStroke();
-    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.BOLD);
+    p.textFont('OverusedGrotesk-Bold'); p.textSize(11); p.textStyle(p.BOLD);
     p.textAlign(p.LEFT);
     p.text(fmt(nodos.length) + " obras", pad, pad);
     p.text(fmt(Math.round(nRelDisp)) + " relaciones", pad, pad + 15);
@@ -514,7 +518,7 @@ new p5(function(p) {
   }
 
   function truncarTexto(texto, anchoMax) {
-    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.BOLD);
+    p.textFont('OverusedGrotesk-Bold'); p.textSize(11); p.textStyle(p.BOLD);
     if (p.textWidth(texto) <= anchoMax) return texto;
     let t = texto;
     while (t.length > 1 && p.textWidth(t + "…") > anchoMax)
@@ -523,7 +527,7 @@ new p5(function(p) {
   }
 
   function contarLineas(texto, anchoMax) {
-    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.NORMAL);
+    p.textFont('OverusedGrotesk-Book'); p.textSize(11); p.textStyle(p.NORMAL);
     const palabras = texto.split(" ");
     let linea = "", n = 1;
     for (let w of palabras) {
@@ -535,7 +539,7 @@ new p5(function(p) {
   }
 
   function dibujarTexto(texto, x, y, anchoMax, limiteY, alpha) {
-    p.textFont('Courier New'); p.textSize(11); p.textStyle(p.NORMAL);
+    p.textFont('OverusedGrotesk-Book'); p.textSize(11); p.textStyle(p.NORMAL);
     p.textAlign(p.LEFT);
     if (x + anchoMax > p.width - TEXTO_MARGEN)
       x = p.width - anchoMax - TEXTO_MARGEN;
